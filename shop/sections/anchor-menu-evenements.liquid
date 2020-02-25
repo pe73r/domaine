@@ -1,0 +1,52 @@
+{% include 'anchor-menu' %}
+
+{% schema %}
+{
+	"name": "Anchor menu",
+	"settings": [
+		{
+		  "type": "color",
+		  "id": "background-color",
+		  "label": "Background color"
+	  },
+	  {
+		"type": "color",
+		"id": "color",
+		"label": "Color"
+	},
+	{
+	  "type": "color",
+	  "id": "hover-background-color",
+	  "label": "Hover background color"
+  },
+  {
+	"type": "color",
+	"id": "hover-color",
+	"label": "Hover color"
+  }
+	],
+	"blocks": [
+	  {
+	    "type": "anchor",
+	    "name": "Anchor",
+	    "settings": [
+	      {
+	        "type": "text",
+	        "id": "title",
+	        "label": "Titre"
+		},
+		{
+		  "type": "text",
+		  "id": "anchor",
+		  "label": "Ancre"
+	  },
+	  {
+	    "type": "url",
+	    "id": "link",
+	    "label": "URL"
+	  }
+	    ]
+	  }
+	]
+}
+{% endschema %}

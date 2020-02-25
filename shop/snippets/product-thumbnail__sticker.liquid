@@ -1,0 +1,35 @@
+{% comment %} Check if there are multiple products per row on mobile devices {% endcomment %}
+{% if settings.mobile_products_per_row == '2' %}
+  {% assign multiple_columns = true %}
+{% endif %}
+
+{% comment %} Check if product is on sale {% endcomment %}
+{% if product.available and product.compare_at_price_max > product.price %}
+  {% assign product_on_sale = true %}
+{% endif %}
+
+{% comment %} Check if sticker holder should be displayed {% endcomment %}
+{% if collection_handles contains 'coming-soon' or collection_handles contains 'new' or collection_handles contains 'pre-order' or product_on_sale %}
+  <div class="sticker-holder {% if multiple_columns %}sticker-holder--mobile{% endif %}">
+    {% if settings.sale_banner_enabled and product.compare_at_price_max > product.price %}
+      <div class="sale-sticker thumbnail-sticker">
+        <span class="sticker-text">{{ 'collections.general.sale' | t }}</span>
+      </div>
+    {% endif %}
+    {% if collection_handles contains 'new' %}
+      <div class="new-sticker thumbnail-sticker">
+        <span class="sticker-text">{{ 'collections.general.new' | t }}</span>
+      </div>
+    {% endif %}
+    {% if collection_handles contains 'coming-soon' %}
+      <div class="comingsoon-sticker thumbnail-sticker">
+        <span class="sticker-text">{{ 'collections.general.coming_soon' | t }}</span>
+      </div>
+    {% endif %}
+    {% if collection_handles contains 'pre-order' %}
+      <div class="preorder-sticker thumbnail-sticker">
+        <span class="sticker-text">{{ 'collections.general.pre_order' | t }}</span>
+      </div>
+    {% endif %}
+  </div>
+{% endif %}

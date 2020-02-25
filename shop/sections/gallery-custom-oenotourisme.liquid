@@ -1,0 +1,95 @@
+{% include 'include-gallery-custom' %}
+
+{% schema %}
+  {
+    "name": "Custom gallery",
+    "class": "image-gallery-section",
+    "settings": [
+      {
+        "type": "checkbox",
+        "id": "wide_display",
+        "label": "No margin between pictures"
+      }, 
+      {
+        "type": "checkbox",
+        "id": "wide_display_with_padding",
+        "label": "Wide display with padding"
+      },
+      {
+        "type": "text",
+        "id": "title",
+        "label": "Heading",
+        "default": "Gallery"
+      },
+      {
+        "type": "range",
+        "id": "grid-size",
+        "label": "Images per row",
+        "min": 2,
+        "max": 4,
+        "step": 1,
+        "default": 4
+      },
+      {
+        "type": "color",
+        "id": "title-color",
+        "label": "Block Title color",
+        "default": "#80686f"
+      }
+    ],
+    "blocks": [
+      {
+        "type": "image",
+        "name": "Image",
+        "settings": [
+          {
+            "type": "image_picker",
+            "id": "image",
+            "label": "Image",
+            "info": "800 x 800px recommended"
+          },
+          {
+            "type": "text",
+            "id": "title",
+            "label": "Title",
+            "default": "Title"
+          },
+          {
+            "type": "richtext",
+            "id": "content",
+            "label": "Content",
+            "default": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>"
+          },
+          {
+            "type": "text",
+            "id": "cta",
+            "label": "Button text",
+            "default": "Go to"
+          },
+          {
+            "type": "url",
+            "id": "url",
+            "label": "link"
+          }
+        ]
+      }
+    ],
+     "presets": [
+      {
+        "name": "Custom gallery",
+        "category": "Image",
+        "blocks": [
+          {
+            "type": "image"
+          },
+          {
+            "type": "image"
+          },
+          {
+            "type": "image"
+          }
+        ]
+      }
+    ]
+  }
+{% endschema %}

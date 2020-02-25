@@ -1,0 +1,4295 @@
+{
+  "presets": {
+    "Milan": {
+      "logo_color": "#b4ac9f",
+      "header_bg_color": "#ffffff",
+      "top_menu_color": "#828181",
+      "nav_color": "#323232",
+      "nav_color_hover": "#837a6c",
+      "nav_color_active": "#9d6704",
+      "dropdown_background_color": "#ffffff",
+      "dropdown_border_color": "#b4ac9f",
+      "headline_color": "#323232",
+      "headline_border_color": "#9d6704",
+      "regular_color": "#545454",
+      "link_color": "#9d6704",
+      "link_hover_color": "#c07e05",
+      "shop_bg_color": "#ffffff",
+      "custom_bg": "",
+      "repeat_bg": "repeat",
+      "bg_fixed": false,
+      "bg_stretched": false,
+      "border_color": "#f2f2f2",
+      "table_styles_enabled": true,
+      "btn_color": "#a1998c",
+      "btn_hover_color": "#837a6c",
+      "btn_text_color": "#ffffff",
+      "button_style": "square",
+      "sale_color": "#a70707",
+      "was_price_color": "#808080",
+      "sale_banner_color": "#a70707",
+      "new_banner_color": "#635b4e",
+      "modal_background_color": "#ffffff",
+      "quick_shop_button_color": "rgba(0,0,0,0)",
+      "quick_shop_button_hover_color": "#ffffff",
+      "quick_shop_text_color": "#837a6c",
+      "social_icons_color": "#a1998c",
+      "social_icons_color_hover": "#837a6c",
+      "headline_footer_text_color": "#323232",
+      "footer_text_color": "#323232",
+      "footer_link_color": "#323232",
+      "footer_link_color_hover": "#9d6704",
+      "footer_border_color": "#b4ac9f",
+      "footer_color": "#ffffff",
+      "custom_footer": "",
+      "read_more_style": "link",
+      "shop_home_page_featured_text_bg_color": "#ffffff",
+      "shop_home_page_image_bg_color": "#ffffff",
+      "shop_home_page_bg_color": "#ffffff",
+      "banner_color": "#ffffff",
+      "testimonial_bg_color": "#ede8e1",
+      "testimonial_text_color": "#545454",
+      "newsletter_popup_color": "#545454",
+      "newsletter_popup_background_color": "#ffffff",
+      "newsletter_bg": "",
+      "newsletter_bg_stretched": false,
+      "password_page_text_color": "#ffffff",
+      "password_page_heading_color": "#be8a2b",
+      "password_page_background_color": "#000000",
+      "logo__font": "din_neuzeit_grotesk_n3",
+      "logo_font_style": "none",
+      "logo_font_size": 20,
+      "headline__font": "din_neuzeit_grotesk_n3",
+      "headline_font_style": "none",
+      "headline_font_size": 21,
+      "headline_letter_spacing": 0,
+      "headline_border": "thin_short",
+      "nav__font": "din_neuzeit_grotesk_n3",
+      "nav_font_style": "none",
+      "nav_font_size": 14,
+      "nav_letter_spacing": 0,
+      "top_menu_size": 13,
+      "button_font_style": "none",
+      "button_font_size": 15,
+      "button_letter_spacing": 0,
+      "regular__font": "itc_new_esprit_n4",
+      "regular_font_style": "none",
+      "regular_font_size": 16,
+      "footer_font_size": 15,
+      "slideshow_headline__font": "abril_fatface_n4",
+      "slideshow_headline_size": 60,
+      "slideshow_subtitle__font": "itc_new_esprit_n4",
+      "slideshow_subtitle_font_style": "none",
+      "slideshow_subtitle_size": 22,
+      "align_height": false,
+      "collection_height": 200,
+      "collection_secondary_image": false,
+      "display_vendor_collection": false,
+      "sale_banner_enabled": true,
+      "thumbnail_border_enabled": false,
+      "collection_swatches": false,
+      "product_price_alignment": "right",
+      "mobile_products_per_row": "2",
+      "display_product_quantity": false,
+      "limit_quantity": false,
+      "display_inventory_left": false,
+      "inventory_threshold": 10,
+      "product_form_style": "swatches",
+      "free_price_text": "Free",
+      "size_chart": "size-chart",
+      "notify_me_form": true,
+      "notify_me_richtext": "<p>Notify me when this product is available:<\/p>",
+      "product_slideshow_animation": "slide",
+      "thumbnail_position": "left-thumbnails",
+      "slideshow_speed": 5,
+      "quick_shop_enabled": true,
+      "product_description_position": "top",
+      "description_words": "15",
+      "show_payment_button": true,
+      "enable_shopify_review_comments": true,
+      "review_position": "bottom",
+      "enable_shopify_collection_badges": false,
+      "enable_shopify_product_badges": true,
+      "cart_action": "ajax",
+      "display_tos_checkbox": false,
+      "show_shipping_calculator": true,
+      "shipping_calculator_default_country": "United States",
+      "disqus_enabled": false,
+      "disqus_shortname": "",
+      "show_multiple_currencies": false,
+      "currency_format": "money_format",
+      "supported_currencies": "USD CAD INR GBP AUD EUR JPY",
+      "default_currency": "USD",
+      "newsletter_popup": false,
+      "newsletter_popup_mobile": false,
+      "newsletter_popup_title": "",
+      "newsletter_popup_image": "",
+      "popup_image_position": "left",
+      "newsletter_popup_text": "",
+      "newsletter_popup_link": "",
+      "newsletter_popup_max_width": 600,
+      "newsletter_popup_seconds": 2,
+      "newsletter_popup_days": "7",
+      "newsletter_popup_form": true,
+      "display_first_name": false,
+      "display_last_name": false,
+      "social_icon_circle": false,
+      "twitter_link": "https:\/\/twitter.com\/shopify",
+      "facebook_link": "https:\/\/facebook.com\/shopify",
+      "youtube_link": "",
+      "vimeo_link": "",
+      "pinterest_link": "",
+      "tumblr_link": "https:\/\/shopify.tumblr.com\/",
+      "instagram_link": "https:\/\/instagram.com\/shopify",
+      "snapchat_link": "",
+      "houzz_link": "",
+      "linkedin_link": "",
+      "email_link": "",
+      "search_option": "products",
+      "favicon": "shopify:\/\/shop_images\/favicon.png",
+      "checkout_header_image": "shopify:\/\/shop_images\/large.jpg",
+      "checkout_logo_image": "shopify:\/\/shop_images\/milan-grad-center.png",
+      "checkout_logo_position": "left",
+      "checkout_logo_size": "medium",
+      "checkout_body_background_image": "",
+      "checkout_body_background_color": "#fff",
+      "checkout_input_background_color_mode": "white",
+      "checkout_sidebar_background_image": "",
+      "checkout_sidebar_background_color": "#ede8e1",
+      "checkout_heading_font": "Helvetica Neue",
+      "checkout_body_font": "Helvetica Neue",
+      "checkout_accent_color": "#9d6704",
+      "checkout_button_color": "#9d6704",
+      "checkout_error_color": "#a70707",
+      "featured_links_background": "#ffffff",
+      "promo_bg_color": "#1e1e1e",
+      "promo_text_color": "#e7e6e4",
+      "use_custom_footer_image": false,
+      "home_page_border_color": "#f2f2f2",
+      "shop_use_home_page_content_bg_color": true,
+      "use_custom_bg_image": false,
+      "use_password_bg_image": true,
+      "pagework_page_bg_stretched": true,
+      "use_newsletter_bg_image": true,
+      "button_weight": "bold",
+      "slideshow_subtitle__font_style": "none",
+      "use_logo": false,
+      "logo_width": "240",
+      "cart_icon": "bag",
+      "display_search_box": true,
+      "main_linklist": "main-menu",
+      "top_bar_linklist": "",
+      "phone_number": "",
+      "logo_top_padding": "6",
+      "menu_top_padding": "0",
+      "promo_text": "",
+      "featured_content_page": "",
+      "footer_linklist_1": "main-menu",
+      "footer_linklist_2": "footer",
+      "footer_content_page": "",
+      "copyright_text": "",
+      "display_payment_methods": true,
+      "slideshow_enabled": true,
+      "slideshow_animation": "fade",
+      "slideshow_text_animation": "fadeInDown",
+      "slideshow_stretch": true,
+      "slideshow_1_enabled": true,
+      "image_1_alt_text": "Mobilia Shopify Theme",
+      "image_1_headline": "Mobilia Shopify Theme",
+      "image_1_subtitle": "",
+      "image_1_text_align": "center",
+      "image_1_button_text": "",
+      "image_1_link": "",
+      "slideshow_2_enabled": true,
+      "image_2_alt_text": "",
+      "image_2_headline": "",
+      "image_2_subtitle": "",
+      "image_2_text_align": "right",
+      "image_2_button_text": "",
+      "image_2_link": "",
+      "slideshow_3_enabled": false,
+      "image_3_alt_text": "",
+      "image_3_headline": "",
+      "image_3_subtitle": "",
+      "image_3_text_align": "center",
+      "image_3_button_text": "",
+      "image_3_link": "",
+      "slideshow_4_enabled": false,
+      "image_4_alt_text": "",
+      "image_4_headline": "",
+      "image_4_subtitle": "",
+      "image_4_text_align": "left",
+      "image_4_button_text": "",
+      "image_4_link": "",
+      "slideshow_5_enabled": false,
+      "image_5_alt_text": "",
+      "image_5_headline": "",
+      "image_5_subtitle": "",
+      "image_5_text_align": "left",
+      "image_5_button_text": "",
+      "image_5_link": "",
+      "slideshow_6_enabled": false,
+      "image_6_alt_text": "",
+      "image_6_headline": "",
+      "image_6_subtitle": "",
+      "image_6_text_align": "left",
+      "image_6_button_text": "",
+      "image_6_link": "",
+      "banner_1_alt_text": "",
+      "banner_1_headline": "",
+      "banner_1_subtitle": "",
+      "banner_1_text_align": "left",
+      "banner_1_button_text": "",
+      "banner_1_link": "",
+      "banner_2_alt_text": "",
+      "banner_2_headline": "",
+      "banner_2_subtitle": "",
+      "banner_2_text_align": "left",
+      "banner_2_button_text": "",
+      "banner_2_link": "",
+      "banner_3_alt_text": "",
+      "banner_3_headline": "",
+      "banner_3_subtitle": "",
+      "banner_3_text_align": "left",
+      "banner_3_button_text": "",
+      "banner_3_link": "",
+      "frontpage_linklist": "",
+      "featured_links_per_row": "2",
+      "frontpage_text_align": "left",
+      "enable_featured_link_description": true,
+      "enable_featured_link_button": true,
+      "featured_promos_per_row": "4",
+      "featured_promos_grid": "full_width",
+      "promo_text_on_image_enabled": true,
+      "feature1_enabled": true,
+      "feature1_link": "",
+      "feature1_title": "Feature 1",
+      "feature1_description": "",
+      "feature1_button": "",
+      "feature2_enabled": true,
+      "feature2_link": "",
+      "feature2_title": "Feature 2",
+      "feature2_description": "",
+      "feature2_button": "",
+      "feature3_enabled": true,
+      "feature3_link": "",
+      "feature3_title": "Feature 3",
+      "feature3_description": "",
+      "feature3_button": "",
+      "feature4_enabled": true,
+      "feature4_link": "",
+      "feature4_title": "Feature 4",
+      "feature4_description": "",
+      "feature4_button": "",
+      "feature5_enabled": false,
+      "feature5_link": "",
+      "feature5_title": "Feature 5",
+      "feature5_description": "",
+      "feature5_button": "",
+      "feature6_enabled": false,
+      "feature6_link": "Feature 6",
+      "feature6_title": "",
+      "feature6_description": "",
+      "feature6_button": "",
+      "feature7_enabled": false,
+      "feature7_link": "",
+      "feature7_title": "Feature 7",
+      "feature7_description": "",
+      "feature7_button": "",
+      "feature8_enabled": false,
+      "feature8_link": "",
+      "feature8_title": "Feature 8",
+      "feature8_description": "",
+      "feature8_button": "",
+      "frontpage_collection": "",
+      "frontpage_collection2": "",
+      "frontpage_products_per_row": 3,
+      "frontpage_collection_full": "",
+      "frontpage_display_description": false,
+      "homepage": "",
+      "homepage2": "",
+      "homepage3": "",
+      "blog_widget_select": "news",
+      "home_page_articles": "3",
+      "twitter_widget": false,
+      "twitter_username": "",
+      "twitter_content_page": "",
+      "twitter_location": "right",
+      "twitter_theme": "light",
+      "tweet_count": "2",
+      "instagram_client_id": "",
+      "instagram_title": "Instagram",
+      "instagram_count": "1",
+      "banner_video_source": "vimeo",
+      "aspect_ratio": "16:9",
+      "banner_video_autoloop": true,
+      "banner_video_autoplay": false,
+      "banner_video_text": false,
+      "video_dark_overlay": false,
+      "banner_video_id": "174048285",
+      "banner_video_mp4": "",
+      "banner_video_ogv": "",
+      "banner_video_headline": "",
+      "banner_video_subtitle": "",
+      "banner_video_text_align": "",
+      "banner_video_button_text": "",
+      "banner_video_link": "",
+      "product_breadcrumb": true,
+      "display_tags": false,
+      "display_type": false,
+      "display_vendor": false,
+      "display_collections": true,
+      "display_sku": false,
+      "show_product_recommendations": true,
+      "product_images_position": "left",
+      "products_per_row": "3",
+      "pagination_limit": "48",
+      "collection_detail_position": "center",
+      "collection_tags": true,
+      "tag_threshold": "5",
+      "collection_sort": true,
+      "quick_shop_full_description": false,
+      "collection_sidebar": false,
+      "collection_sidebar_linklist": "",
+      "collection_sidebar_linklist2": "",
+      "filter_by_category": false,
+      "filter_by_tag": false,
+      "collection_sidebar_products": false,
+      "collection_sidebar_vendors": false,
+      "collection_sidebar_page": "",
+      "display_special_instructions": true,
+      "contact_address": "",
+      "zoom_level": "12",
+      "blog_posts_per_page": "4",
+      "blog_posts_per_row": "1",
+      "blog_tags": true,
+      "blog_author": true,
+      "blog_date": true,
+      "blog_comment_count": true,
+      "read_more_link": false,
+      "blog_additional_articles": true,
+      "slideshow_article_enabled": false,
+      "sidebar_enabled": true,
+      "blog_search": true,
+      "blog_newsletter": true,
+      "display_recent_articles": true,
+      "blog_sidebar_tags": true,
+      "blog_content_page": "",
+      "mailchimp_link": "",
+      "footer_newsletter": true,
+      "newsletter_popup_page": "",
+      "display_social_buttons": true,
+      "header_social_icons": true,
+      "footer_social_icons": true,
+      "checkout_use_header_image": false,
+      "checkout_use_storefront_logo": "",
+      "checkout_use_body_background_image": false,
+      "checkout_use_sidebar_background_image": false,
+      "cart_link": "\/checkout",
+      "blog_widget": true,
+      "shop_content_bg_color": "",
+      "checkout_banner_background_color": "#ffffff",
+      "checkout_call_to_action_color": "#ffa02f",
+      "checkout_background_color": "#ffffff",
+      "checkout_background_image": false,
+      "checkout_text_color": "#404040",
+      "checkout_headline_color": "#303030",
+      "collection_top_sidebar_page": "",
+      "video_width": "set",
+      "social_icons": "dark",
+      "header_share_button": false,
+      "shop_use_content_bg_color": false,
+      "slideshow_width_narrow": false,
+      "image_1_text_color": "#ffffff",
+      "image_2_text_color": "#ffffff",
+      "image_3_text_color": "#ffffff",
+      "image_4_text_color": "#ffffff",
+      "image_5_text_color": "#ffffff",
+      "image_6_text_color": "#ffffff",
+      "display_pinterest_button": true,
+      "display_fancy_button": true,
+      "option_to_match": "",
+      "quick_shop_text": "+ Quick View",
+      "tax_included": false,
+      "shipping_calculator_heading": "Shipping rates calculator",
+      "shipping_calculator_submit_button_label": "Calculate shipping rates",
+      "shipping_calculator_submit_button_label_disabled": "Calculating...",
+      "display_social_buttons_blog": true,
+      "newsletter_enabled": true,
+      "newsletter_text": "Mailing List",
+      "newsletter_description": "Sign up to get the latest on sales, new releases and more …",
+      "newsletter_system": "shopify",
+      "social_text": "Social",
+      "flickr_link": "",
+      "blog_rss": "news",
+      "use_paypal": false,
+      "use_bitcoin": false,
+      "use_visa": false,
+      "use_visaelectron": false,
+      "use_mastercard": false,
+      "use_amex": false,
+      "use_cirrus": false,
+      "use_delta": false,
+      "use_discover": false,
+      "use_google_checkout": false,
+      "use_western_union": false,
+      "sections": {
+        "header": {
+          "type": "header",
+          "settings": {
+            "announcement_message": "Announcement message",
+            "announcement_link": "",
+            "phone_number": "",
+            "top_bar_linklist": "",
+            "display_search_box": true,
+            "logo": "",
+            "logo_width": 280,
+            "logo_top_padding": 0,
+            "main_linklist": "main-menu",
+            "menu_top_padding": 0,
+            "cart_icon": "cart"
+          }
+        },
+        "footer": {
+          "type": "footer",
+          "settings": {
+            "footer_linklist_1": "main-menu",
+            "footer_linklist_2": "footer",
+            "footer_content_page": "",
+            "copyright_text": "",
+            "display_payment_methods": true
+          }
+        },
+        "1479351462524": {
+          "type": "slideshow",
+          "blocks": {
+            "1479351462524-0": {
+              "type": "image",
+              "settings": {
+                "image": "",
+                "title": "Mobilia Shopify Theme",
+                "text_position": "center",
+                "text_align": "center",
+                "link": ""
+              }
+            },
+            "1479351462524-1": {
+              "type": "image",
+              "settings": {
+                "image": "",
+                "title": "",
+                "text_position": "center",
+                "text_align": "left",
+                "link": ""
+              }
+            }
+          },
+          "block_order": [
+            "1479351462524-0",
+            "1479351462524-1"
+          ],
+          "settings": {
+            "slideshow_stretch": true,
+            "slideshow_animation": "fade",
+            "slideshow_text_animation": "fadeInUp",
+            "slideshow_speed": 6
+          }
+        },
+        "1481508702376": {
+          "type": "image-with-text-overlay-section",
+          "settings": {
+            "image_stretch": true,
+            "image": "",
+            "title": "Your Headline",
+            "button_label": "",
+            "link": "",
+            "text_position": "center",
+            "text_align": "center"
+          }
+        },
+        "1481508718225": {
+          "type": "featured-text",
+          "settings": {
+            "image": "",
+            "title": "Talk about your brand",
+            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.<\/p>",
+            "button_label": "",
+            "button_link": "",
+            "text_size": "featured_text",
+            "text_alignment": "center"
+          }
+        },
+        "1481508727922": {
+          "type": "featured-promotions",
+          "blocks": {
+            "1481508727922-0": {
+              "type": "image",
+              "settings": {
+              }
+            },
+            "1481508727922-1": {
+              "type": "image",
+              "settings": {
+              }
+            },
+            "1481508727922-2": {
+              "type": "image",
+              "settings": {
+              }
+            }
+          },
+          "block_order": [
+            "1481508727922-0",
+            "1481508727922-1",
+            "1481508727922-2"
+          ],
+          "settings": {
+            "promo_text_on_image_enabled": true,
+            "featured_promos_per_row": 3
+          }
+        },
+        "1481509059475": {
+          "type": "featured-collection",
+          "settings": {
+            "title": "Featured collection",
+            "frontpage_collection": "",
+            "frontpage_products_per_row": 3,
+            "frontpage_products_limit": 12
+          }
+        },
+        "1481509538374": {
+          "type": "instagram",
+          "settings": {
+            "instagram_client_id": "",
+            "instagram_count": 1
+          }
+        },
+        "1481511153564": {
+          "type": "featured-blog",
+          "settings": {
+            "title": "Blog posts",
+            "blog_widget_select": "",
+            "home_page_articles": 3
+          }
+        }
+      },
+      "content_for_index": [
+        "1479351462524",
+        "1481508718225",
+        "1481508727922",
+        "1481509059475",
+        "1481508702376",
+        "1481511153564",
+        "1481509538374"
+      ]
+    },
+    "Napa": {
+      "logo_color": "#040707",
+      "header_bg_color": "#ffffff",
+      "top_menu_color": "#828181",
+      "nav_color": "#000000",
+      "nav_color_hover": "#18a18b",
+      "nav_color_active": "#18a18b",
+      "dropdown_background_color": "#ffffff",
+      "dropdown_border_color": "#ffffff",
+      "headline_color": "#1f3492",
+      "headline_border_color": "#1f3492",
+      "regular_color": "#000000",
+      "link_color": "#1f3492",
+      "link_hover_color": "#18a18b",
+      "shop_bg_color": "#ffffff",
+      "repeat_bg": "repeat",
+      "bg_fixed": false,
+      "bg_stretched": true,
+      "border_color": "#000000",
+      "table_styles_enabled": true,
+      "btn_color": "#160f03",
+      "btn_hover_color": "#18a18b",
+      "btn_text_color": "#ffffff",
+      "button_style": "square",
+      "sale_color": "#18a18b",
+      "was_price_color": "#be312b",
+      "sale_banner_color": "#1f3492",
+      "new_banner_color": "#1f3492",
+      "modal_background_color": "#ffffff",
+      "quick_shop_button_color": "#303030",
+      "quick_shop_button_hover_color": "#18a18b",
+      "quick_shop_text_color": "#ffffff",
+      "social_icons_color": "#18a18b",
+      "social_icons_color_hover": "#0a0a0a",
+      "headline_footer_text_color": "#18a18b",
+      "footer_text_color": "#918d8d",
+      "footer_link_color": "#d6d2d2",
+      "footer_link_color_hover": "#18a18b",
+      "footer_border_color": "#1e1e1e",
+      "footer_color": "#1e1e1e",
+      "read_more_style": "link",
+      "shop_home_page_featured_text_bg_color": "#ffffff",
+      "shop_home_page_image_bg_color": "#ffffff",
+      "shop_home_page_bg_color": "#ffffff",
+      "banner_color": "#ffffff",
+      "testimonial_bg_color": "#ffffff",
+      "testimonial_text_color": "#545454",
+      "newsletter_popup_color": "#545454",
+      "newsletter_popup_background_color": "#ffffff",
+      "newsletter_bg_stretched": false,
+      "password_page_text_color": "#ffffff",
+      "password_page_heading_color": "#be8a2b",
+      "password_page_background_color": "#000000",
+      "logo__font": "gill_sans_nova_n4",
+      "logo_font_style": "none",
+      "logo_font_size": 26,
+      "headline__font": "bembo_book_n4",
+      "headline_font_style": "none",
+      "headline_font_size": 42,
+      "headline_letter_spacing": 0,
+      "headline_border": "wide_short",
+      "nav__font": "gill_sans_nova_n4",
+      "nav_font_style": "none",
+      "nav_font_size": 15,
+      "nav_letter_spacing": 0,
+      "top_menu_size": 13,
+      "button_font_style": "uppercase",
+      "button_font_size": 15,
+      "button_letter_spacing": 0,
+      "regular__font": "gill_sans_nova_n3",
+      "regular_font_style": "none",
+      "regular_font_size": 18,
+      "footer_font_size": 14,
+      "slideshow_headline__font": "bembo_book_n4",
+      "slideshow_headline_size": 60,
+      "slideshow_subtitle__font": "bembo_book_n4",
+      "slideshow_subtitle_font_style": "none",
+      "slideshow_subtitle_size": 34,
+      "align_height": false,
+      "collection_height": 200,
+      "collection_secondary_image": true,
+      "display_vendor_collection": false,
+      "sale_banner_enabled": true,
+      "thumbnail_border_enabled": false,
+      "collection_swatches": false,
+      "product_price_alignment": "right",
+      "mobile_products_per_row": "2",
+      "display_product_quantity": true,
+      "limit_quantity": true,
+      "display_inventory_left": true,
+      "inventory_threshold": 10,
+      "product_form_style": "dropdown",
+      "free_price_text": "Free",
+      "size_chart": "",
+      "notify_me_form": true,
+      "notify_me_richtext": "<p>Notify me when this product is available:<\/p>",
+      "product_slideshow_animation": "slide",
+      "thumbnail_position": "bottom-thumbnails",
+      "slideshow_speed": 6,
+      "quick_shop_enabled": true,
+      "product_description_position": "top",
+      "description_words": "15",
+      "show_payment_button": true,
+      "enable_shopify_review_comments": true,
+      "review_position": "bottom",
+      "enable_shopify_collection_badges": true,
+      "enable_shopify_product_badges": true,
+      "cart_action": "ajax",
+      "display_tos_checkbox": true,
+      "show_shipping_calculator": true,
+      "shipping_calculator_default_country": "United States",
+      "disqus_enabled": false,
+      "disqus_shortname": "",
+      "show_multiple_currencies": true,
+      "currency_format": "money_format",
+      "supported_currencies": "USD CAD INR GBP AUD EUR JPY",
+      "default_currency": "USD",
+      "newsletter_popup": false,
+      "newsletter_popup_mobile": false,
+      "newsletter_popup_title": "nl header",
+      "newsletter_popup_image": "shopify:\/\/shop_images\/rectangle-7.jpg",
+      "popup_image_position": "left",
+      "newsletter_popup_text": "",
+      "newsletter_popup_max_width": 460,
+      "newsletter_popup_seconds": 4,
+      "newsletter_popup_days": "0",
+      "newsletter_popup_form": true,
+      "display_first_name": true,
+      "display_last_name": true,
+      "social_icon_circle": true,
+      "twitter_link": "https:\/\/twitter.com\/shopify",
+      "facebook_link": "https:\/\/facebook.com\/shopify",
+      "youtube_link": "https:\/\/youtube.com\/user\/shopify",
+      "vimeo_link": "",
+      "pinterest_link": "",
+      "tumblr_link": "",
+      "instagram_link": "https:\/\/instagram.com\/shopify",
+      "snapchat_link": "",
+      "houzz_link": "",
+      "linkedin_link": "",
+      "email_link": "",
+      "search_option": "products",
+      "favicon": "shopify:\/\/shop_images\/napa-favicon-2019.png",
+      "checkout_logo_image": "shopify:\/\/shop_images\/napa-logo-black-2019.png",
+      "checkout_logo_position": "left",
+      "checkout_logo_size": "small",
+      "checkout_body_background_color": "#ffffff",
+      "checkout_input_background_color_mode": "white",
+      "checkout_sidebar_background_color": "#fafafa",
+      "checkout_heading_font": "Helvetica Neue",
+      "checkout_body_font": "Helvetica Neue",
+      "checkout_accent_color": "#18a18b",
+      "checkout_button_color": "#18a18b",
+      "checkout_error_color": "#040707",
+      "featured_links_background": "#ffffff",
+      "promo_bg_color": "#1e1e1e",
+      "promo_text_color": "#e7e6e4",
+      "use_custom_footer_image": false,
+      "home_page_border_color": "#f2f2f2",
+      "shop_use_home_page_content_bg_color": true,
+      "use_custom_bg_image": false,
+      "use_password_bg_image": true,
+      "pagework_page_bg_stretched": true,
+      "use_newsletter_bg_image": true,
+      "button_weight": "bold",
+      "slideshow_subtitle__font_style": "none",
+      "use_logo": false,
+      "logo_width": "240",
+      "cart_icon": "bag",
+      "display_search_box": true,
+      "main_linklist": "main-menu",
+      "top_bar_linklist": "",
+      "phone_number": "",
+      "logo_top_padding": "6",
+      "menu_top_padding": "0",
+      "promo_text": "",
+      "featured_content_page": "",
+      "footer_linklist_1": "main-menu",
+      "footer_linklist_2": "footer",
+      "footer_content_page": "",
+      "copyright_text": "",
+      "display_payment_methods": true,
+      "slideshow_enabled": true,
+      "slideshow_animation": "fade",
+      "slideshow_text_animation": "fadeInDown",
+      "slideshow_stretch": true,
+      "slideshow_1_enabled": true,
+      "image_1_alt_text": "Mobilia Shopify Theme",
+      "image_1_headline": "Mobilia Shopify Theme",
+      "image_1_subtitle": "",
+      "image_1_text_align": "center",
+      "image_1_button_text": "",
+      "image_1_link": "",
+      "slideshow_2_enabled": true,
+      "image_2_alt_text": "",
+      "image_2_headline": "",
+      "image_2_subtitle": "",
+      "image_2_text_align": "right",
+      "image_2_button_text": "",
+      "image_2_link": "",
+      "slideshow_3_enabled": false,
+      "image_3_alt_text": "",
+      "image_3_headline": "",
+      "image_3_subtitle": "",
+      "image_3_text_align": "center",
+      "image_3_button_text": "",
+      "image_3_link": "",
+      "slideshow_4_enabled": false,
+      "image_4_alt_text": "",
+      "image_4_headline": "",
+      "image_4_subtitle": "",
+      "image_4_text_align": "left",
+      "image_4_button_text": "",
+      "image_4_link": "",
+      "slideshow_5_enabled": false,
+      "image_5_alt_text": "",
+      "image_5_headline": "",
+      "image_5_subtitle": "",
+      "image_5_text_align": "left",
+      "image_5_button_text": "",
+      "image_5_link": "",
+      "slideshow_6_enabled": false,
+      "image_6_alt_text": "",
+      "image_6_headline": "",
+      "image_6_subtitle": "",
+      "image_6_text_align": "left",
+      "image_6_button_text": "",
+      "image_6_link": "",
+      "banner_1_alt_text": "",
+      "banner_1_headline": "",
+      "banner_1_subtitle": "",
+      "banner_1_text_align": "left",
+      "banner_1_button_text": "",
+      "banner_1_link": "",
+      "banner_2_alt_text": "",
+      "banner_2_headline": "",
+      "banner_2_subtitle": "",
+      "banner_2_text_align": "left",
+      "banner_2_button_text": "",
+      "banner_2_link": "",
+      "banner_3_alt_text": "",
+      "banner_3_headline": "",
+      "banner_3_subtitle": "",
+      "banner_3_text_align": "left",
+      "banner_3_button_text": "",
+      "banner_3_link": "",
+      "frontpage_linklist": "",
+      "featured_links_per_row": "2",
+      "frontpage_text_align": "left",
+      "enable_featured_link_description": true,
+      "enable_featured_link_button": true,
+      "featured_promos_per_row": "4",
+      "featured_promos_grid": "full_width",
+      "promo_text_on_image_enabled": true,
+      "feature1_enabled": true,
+      "feature1_link": "",
+      "feature1_title": "Feature 1",
+      "feature1_description": "",
+      "feature1_button": "",
+      "feature2_enabled": true,
+      "feature2_link": "",
+      "feature2_title": "Feature 2",
+      "feature2_description": "",
+      "feature2_button": "",
+      "feature3_enabled": true,
+      "feature3_link": "",
+      "feature3_title": "Feature 3",
+      "feature3_description": "",
+      "feature3_button": "",
+      "feature4_enabled": true,
+      "feature4_link": "",
+      "feature4_title": "Feature 4",
+      "feature4_description": "",
+      "feature4_button": "",
+      "feature5_enabled": false,
+      "feature5_link": "",
+      "feature5_title": "Feature 5",
+      "feature5_description": "",
+      "feature5_button": "",
+      "feature6_enabled": false,
+      "feature6_link": "Feature 6",
+      "feature6_title": "",
+      "feature6_description": "",
+      "feature6_button": "",
+      "feature7_enabled": false,
+      "feature7_link": "",
+      "feature7_title": "Feature 7",
+      "feature7_description": "",
+      "feature7_button": "",
+      "feature8_enabled": false,
+      "feature8_link": "",
+      "feature8_title": "Feature 8",
+      "feature8_description": "",
+      "feature8_button": "",
+      "frontpage_collection": "",
+      "frontpage_collection2": "",
+      "frontpage_products_per_row": 3,
+      "frontpage_collection_full": "",
+      "frontpage_display_description": false,
+      "homepage": "",
+      "homepage2": "",
+      "homepage3": "",
+      "blog_widget_select": "news",
+      "home_page_articles": "3",
+      "twitter_widget": false,
+      "twitter_username": "",
+      "twitter_content_page": "",
+      "twitter_location": "right",
+      "twitter_theme": "light",
+      "tweet_count": "2",
+      "instagram_client_id": "",
+      "instagram_title": "Instagram",
+      "instagram_count": "1",
+      "banner_video_source": "vimeo",
+      "aspect_ratio": "16:9",
+      "banner_video_autoloop": true,
+      "banner_video_autoplay": false,
+      "banner_video_text": false,
+      "video_dark_overlay": false,
+      "banner_video_id": "174048285",
+      "banner_video_mp4": "",
+      "banner_video_ogv": "",
+      "banner_video_headline": "",
+      "banner_video_subtitle": "",
+      "banner_video_text_align": "",
+      "banner_video_button_text": "",
+      "banner_video_link": "",
+      "product_breadcrumb": true,
+      "display_tags": false,
+      "display_type": false,
+      "display_vendor": false,
+      "display_collections": true,
+      "display_sku": false,
+      "show_product_recommendations": true,
+      "product_images_position": "left",
+      "products_per_row": "3",
+      "pagination_limit": "48",
+      "collection_detail_position": "center",
+      "collection_tags": true,
+      "tag_threshold": "5",
+      "collection_sort": true,
+      "quick_shop_full_description": false,
+      "collection_sidebar": false,
+      "collection_sidebar_linklist": "",
+      "collection_sidebar_linklist2": "",
+      "filter_by_category": false,
+      "filter_by_tag": false,
+      "collection_sidebar_products": false,
+      "collection_sidebar_vendors": false,
+      "collection_sidebar_page": "",
+      "display_special_instructions": true,
+      "contact_address": "",
+      "zoom_level": "12",
+      "blog_posts_per_page": "4",
+      "blog_posts_per_row": "1",
+      "blog_tags": true,
+      "blog_author": true,
+      "blog_date": true,
+      "blog_comment_count": true,
+      "read_more_link": false,
+      "blog_additional_articles": true,
+      "slideshow_article_enabled": false,
+      "sidebar_enabled": true,
+      "blog_search": true,
+      "blog_newsletter": true,
+      "display_recent_articles": true,
+      "blog_sidebar_tags": true,
+      "blog_content_page": "",
+      "mailchimp_link": "",
+      "footer_newsletter": true,
+      "newsletter_popup_page": "",
+      "display_social_buttons": true,
+      "header_social_icons": true,
+      "footer_social_icons": true,
+      "checkout_use_header_image": false,
+      "checkout_use_storefront_logo": "",
+      "checkout_use_body_background_image": false,
+      "checkout_use_sidebar_background_image": false,
+      "cart_link": "\/checkout",
+      "blog_widget": true,
+      "shop_content_bg_color": "",
+      "checkout_banner_background_color": "#ffffff",
+      "checkout_call_to_action_color": "#ffa02f",
+      "checkout_background_color": "#ffffff",
+      "checkout_background_image": false,
+      "checkout_text_color": "#404040",
+      "checkout_headline_color": "#303030",
+      "collection_top_sidebar_page": "",
+      "video_width": "set",
+      "social_icons": "dark",
+      "header_share_button": false,
+      "shop_use_content_bg_color": false,
+      "slideshow_width_narrow": false,
+      "image_1_text_color": "#ffffff",
+      "image_2_text_color": "#ffffff",
+      "image_3_text_color": "#ffffff",
+      "image_4_text_color": "#ffffff",
+      "image_5_text_color": "#ffffff",
+      "image_6_text_color": "#ffffff",
+      "display_pinterest_button": true,
+      "display_fancy_button": true,
+      "option_to_match": "",
+      "quick_shop_text": "+ Quick View",
+      "tax_included": false,
+      "shipping_calculator_heading": "Shipping rates calculator",
+      "shipping_calculator_submit_button_label": "Calculate shipping rates",
+      "shipping_calculator_submit_button_label_disabled": "Calculating...",
+      "display_social_buttons_blog": true,
+      "newsletter_enabled": true,
+      "newsletter_text": "Mailing List",
+      "newsletter_description": "Sign up to get the latest on sales, new releases and more …",
+      "newsletter_system": "shopify",
+      "social_text": "Social",
+      "flickr_link": "",
+      "blog_rss": "news",
+      "use_paypal": false,
+      "use_bitcoin": false,
+      "use_visa": false,
+      "use_visaelectron": false,
+      "use_mastercard": false,
+      "use_amex": false,
+      "use_cirrus": false,
+      "use_delta": false,
+      "use_discover": false,
+      "use_google_checkout": false,
+      "use_western_union": false,
+      "sections": {
+        "header": {
+          "type": "header",
+          "settings": {
+            "announcement_message": "Announcement message",
+            "announcement_link": "",
+            "phone_number": "",
+            "top_bar_linklist": "",
+            "display_search_box": true,
+            "logo": "",
+            "logo_width": 280,
+            "logo_top_padding": 0,
+            "main_linklist": "main-menu",
+            "menu_top_padding": 0,
+            "cart_icon": "cart"
+          }
+        },
+        "footer": {
+          "type": "footer",
+          "settings": {
+            "footer_linklist_1": "main-menu",
+            "footer_linklist_2": "footer",
+            "footer_content_page": "",
+            "copyright_text": "",
+            "display_payment_methods": true
+          }
+        },
+        "1479351462524": {
+          "type": "slideshow",
+          "blocks": {
+            "1479351462524-0": {
+              "type": "image",
+              "settings": {
+                "image": "",
+                "title": "Mobilia Shopify Theme",
+                "text_position": "center",
+                "text_align": "center",
+                "link": ""
+              }
+            },
+            "1479351462524-1": {
+              "type": "image",
+              "settings": {
+                "image": "",
+                "title": "",
+                "text_position": "center",
+                "text_align": "left",
+                "link": ""
+              }
+            }
+          },
+          "block_order": [
+            "1479351462524-0",
+            "1479351462524-1"
+          ],
+          "settings": {
+            "slideshow_stretch": true,
+            "slideshow_animation": "fade",
+            "slideshow_text_animation": "fadeInUp",
+            "slideshow_speed": 6
+          }
+        },
+        "1481508702376": {
+          "type": "image-with-text-overlay-section",
+          "settings": {
+            "image_stretch": true,
+            "image": "",
+            "title": "Your Headline",
+            "button_label": "",
+            "link": "",
+            "text_position": "center",
+            "text_align": "center"
+          }
+        },
+        "1481508718225": {
+          "type": "featured-text",
+          "settings": {
+            "image": "",
+            "title": "Talk about your brand",
+            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.<\/p>",
+            "button_label": "",
+            "button_link": "",
+            "text_size": "featured_text",
+            "text_alignment": "center"
+          }
+        },
+        "1481508727922": {
+          "type": "featured-promotions",
+          "blocks": {
+            "1481508727922-0": {
+              "type": "image",
+              "settings": {
+              }
+            },
+            "1481508727922-1": {
+              "type": "image",
+              "settings": {
+              }
+            },
+            "1481508727922-2": {
+              "type": "image",
+              "settings": {
+              }
+            }
+          },
+          "block_order": [
+            "1481508727922-0",
+            "1481508727922-1",
+            "1481508727922-2"
+          ],
+          "settings": {
+            "promo_text_on_image_enabled": true,
+            "featured_promos_per_row": 3
+          }
+        },
+        "1481509059475": {
+          "type": "featured-collection",
+          "settings": {
+            "title": "Featured collection",
+            "frontpage_collection": "",
+            "frontpage_products_per_row": 3,
+            "frontpage_products_limit": 12
+          }
+        },
+        "1481509538374": {
+          "type": "instagram",
+          "settings": {
+            "instagram_client_id": "",
+            "instagram_count": 1
+          }
+        },
+        "1481511153564": {
+          "type": "featured-blog",
+          "settings": {
+            "title": "Blog posts",
+            "blog_widget_select": "",
+            "home_page_articles": 3
+          }
+        }
+      },
+      "content_for_index": [
+        "1479351462524",
+        "1481508718225",
+        "1481508727922",
+        "1481509059475",
+        "1481508702376",
+        "1481511153564",
+        "1481509538374"
+      ]
+    },
+    "Sydney": {
+      "logo_color": "#040707",
+      "header_bg_color": "#ffffff",
+      "top_menu_color": "#828181",
+      "nav_color": "#040707",
+      "nav_color_hover": "#f9cca7",
+      "nav_color_active": "#f9cca7",
+      "dropdown_background_color": "#ffffff",
+      "dropdown_border_color": "#040707",
+      "headline_color": "#f2c097",
+      "headline_border_color": "#545454",
+      "regular_color": "#545454",
+      "link_color": "#f9cca7",
+      "link_hover_color": "#080809",
+      "shop_bg_color": "#ffffff",
+      "custom_bg": "",
+      "repeat_bg": "repeat",
+      "bg_fixed": false,
+      "bg_stretched": true,
+      "border_color": "#d8d8d8",
+      "table_styles_enabled": true,
+      "btn_color": "#000000",
+      "btn_hover_color": "#f9cca7",
+      "btn_text_color": "#ffffff",
+      "button_style": "square",
+      "sale_color": "#be8a2b",
+      "was_price_color": "#808080",
+      "sale_banner_color": "#050505",
+      "new_banner_color": "#050505",
+      "modal_background_color": "#ffffff",
+      "quick_shop_button_color": "#303030",
+      "quick_shop_button_hover_color": "#be8a2b",
+      "quick_shop_text_color": "#fff",
+      "social_icons_color": "#000000",
+      "social_icons_color_hover": "#f9cca7",
+      "headline_footer_text_color": "#000000",
+      "footer_text_color": "#000000",
+      "footer_link_color": "#d6d2d2",
+      "footer_link_color_hover": "#f9cca7",
+      "footer_border_color": "#f9cca7",
+      "footer_color": "#ffffff",
+      "custom_footer": "",
+      "read_more_style": "button",
+      "shop_home_page_featured_text_bg_color": "#ffffff",
+      "shop_home_page_image_bg_color": "#ffffff",
+      "shop_home_page_bg_color": "#ffffff",
+      "banner_color": "#ffffff",
+      "testimonial_bg_color": "#ffffff",
+      "testimonial_text_color": "#545454",
+      "newsletter_popup_color": "#545454",
+      "newsletter_popup_background_color": "#ffffff",
+      "newsletter_bg": "",
+      "newsletter_bg_stretched": false,
+      "password_page_text_color": "#ffffff",
+      "password_page_heading_color": "#be8a2b",
+      "password_page_background_color": "#000000",
+      "logo__font": "itc_avant_garde_gothic_n4",
+      "logo_font_style": "none",
+      "logo_font_size": 26,
+      "headline__font": "itc_avant_garde_gothic_n4",
+      "headline_font_style": "none",
+      "headline_font_size": 26,
+      "headline_letter_spacing": 0,
+      "headline_border": "wide_short",
+      "nav__font": "itc_avant_garde_gothic_n5",
+      "nav_font_style": "uppercase",
+      "nav_font_size": 16,
+      "nav_letter_spacing": 1,
+      "top_menu_size": 13,
+      "button_font_style": "none",
+      "button_font_size": 15,
+      "button_letter_spacing": 0,
+      "regular__font": "roboto_n4",
+      "regular_font_style": "none",
+      "regular_font_size": 18,
+      "footer_font_size": 14,
+      "slideshow_headline__font": "itc_avant_garde_gothic_n4",
+      "slideshow_headline_size": 50,
+      "slideshow_subtitle__font": "roboto_n5",
+      "slideshow_subtitle_font_style": "none",
+      "slideshow_subtitle_size": 25,
+      "align_height": false,
+      "collection_height": 200,
+      "collection_secondary_image": false,
+      "display_vendor_collection": false,
+      "sale_banner_enabled": true,
+      "thumbnail_border_enabled": false,
+      "collection_swatches": false,
+      "product_price_alignment": "right",
+      "mobile_products_per_row": "2",
+      "display_product_quantity": false,
+      "limit_quantity": false,
+      "display_inventory_left": false,
+      "inventory_threshold": 10,
+      "product_form_style": "dropdown",
+      "free_price_text": "Free",
+      "size_chart": "",
+      "notify_me_form": true,
+      "notify_me_richtext": "<p>Notify me when this product is available:<\/p>",
+      "product_slideshow_animation": "slide",
+      "thumbnail_position": "bottom-thumbnails",
+      "slideshow_speed": 6,
+      "quick_shop_enabled": false,
+      "product_description_position": "top",
+      "description_words": "15",
+      "show_payment_button": true,
+      "enable_shopify_review_comments": true,
+      "review_position": "bottom",
+      "enable_shopify_collection_badges": false,
+      "enable_shopify_product_badges": false,
+      "cart_action": "ajax",
+      "display_tos_checkbox": true,
+      "show_shipping_calculator": true,
+      "shipping_calculator_default_country": "United States",
+      "disqus_enabled": false,
+      "disqus_shortname": "",
+      "show_multiple_currencies": true,
+      "currency_format": "money_format",
+      "supported_currencies": "USD CAD INR GBP AUD EUR JPY",
+      "default_currency": "USD",
+      "newsletter_popup": false,
+      "newsletter_popup_mobile": false,
+      "newsletter_popup_title": "Join our newsletter",
+      "newsletter_popup_image": "shopify:\/\/shop_images\/popup-2.jpg",
+      "popup_image_position": "left",
+      "newsletter_popup_text": "<p>Sign up to receive&nbsp;the latest updates,&nbsp;directly from our&nbsp;studio.<\/p>",
+      "newsletter_popup_link": "",
+      "newsletter_popup_max_width": 600,
+      "newsletter_popup_seconds": 2,
+      "newsletter_popup_days": "7",
+      "newsletter_popup_form": true,
+      "display_first_name": true,
+      "display_last_name": true,
+      "social_icon_circle": true,
+      "twitter_link": "",
+      "facebook_link": "",
+      "youtube_link": "",
+      "vimeo_link": "",
+      "pinterest_link": "",
+      "tumblr_link": "",
+      "instagram_link": "",
+      "snapchat_link": "",
+      "houzz_link": "",
+      "linkedin_link": "",
+      "email_link": "",
+      "search_option": "everything",
+      "favicon": "shopify:\/\/shop_images\/sydney-favicon-2019.png",
+      "checkout_header_image": "",
+      "checkout_logo_image": "shopify:\/\/shop_images\/sydney-logo-white-2019.png",
+      "checkout_logo_position": "center",
+      "checkout_logo_size": "small",
+      "checkout_body_background_image": "",
+      "checkout_body_background_color": "#f9cca7",
+      "checkout_input_background_color_mode": "white",
+      "checkout_sidebar_background_image": "",
+      "checkout_sidebar_background_color": "#fafafa",
+      "checkout_heading_font": "Helvetica Neue",
+      "checkout_body_font": "Helvetica Neue",
+      "checkout_accent_color": "#ffffff",
+      "checkout_button_color": "#000000",
+      "checkout_error_color": "#040707",
+      "featured_links_background": "#ffffff",
+      "promo_bg_color": "#1e1e1e",
+      "promo_text_color": "#e7e6e4",
+      "use_custom_footer_image": false,
+      "home_page_border_color": "#f2f2f2",
+      "shop_use_home_page_content_bg_color": true,
+      "use_custom_bg_image": false,
+      "use_password_bg_image": true,
+      "pagework_page_bg_stretched": true,
+      "use_newsletter_bg_image": true,
+      "button_weight": "bold",
+      "slideshow_subtitle__font_style": "none",
+      "use_logo": false,
+      "logo_width": "240",
+      "cart_icon": "bag",
+      "display_search_box": true,
+      "main_linklist": "main-menu",
+      "top_bar_linklist": "",
+      "phone_number": "",
+      "logo_top_padding": "6",
+      "menu_top_padding": "0",
+      "promo_text": "",
+      "featured_content_page": "",
+      "footer_linklist_1": "main-menu",
+      "footer_linklist_2": "footer",
+      "footer_content_page": "",
+      "copyright_text": "",
+      "display_payment_methods": true,
+      "slideshow_enabled": true,
+      "slideshow_animation": "fade",
+      "slideshow_text_animation": "fadeInDown",
+      "slideshow_stretch": true,
+      "slideshow_1_enabled": true,
+      "image_1_alt_text": "Mobilia Shopify Theme",
+      "image_1_headline": "Mobilia Shopify Theme",
+      "image_1_subtitle": "",
+      "image_1_text_align": "center",
+      "image_1_button_text": "",
+      "image_1_link": "",
+      "slideshow_2_enabled": true,
+      "image_2_alt_text": "",
+      "image_2_headline": "",
+      "image_2_subtitle": "",
+      "image_2_text_align": "right",
+      "image_2_button_text": "",
+      "image_2_link": "",
+      "slideshow_3_enabled": false,
+      "image_3_alt_text": "",
+      "image_3_headline": "",
+      "image_3_subtitle": "",
+      "image_3_text_align": "center",
+      "image_3_button_text": "",
+      "image_3_link": "",
+      "slideshow_4_enabled": false,
+      "image_4_alt_text": "",
+      "image_4_headline": "",
+      "image_4_subtitle": "",
+      "image_4_text_align": "left",
+      "image_4_button_text": "",
+      "image_4_link": "",
+      "slideshow_5_enabled": false,
+      "image_5_alt_text": "",
+      "image_5_headline": "",
+      "image_5_subtitle": "",
+      "image_5_text_align": "left",
+      "image_5_button_text": "",
+      "image_5_link": "",
+      "slideshow_6_enabled": false,
+      "image_6_alt_text": "",
+      "image_6_headline": "",
+      "image_6_subtitle": "",
+      "image_6_text_align": "left",
+      "image_6_button_text": "",
+      "image_6_link": "",
+      "banner_1_alt_text": "",
+      "banner_1_headline": "",
+      "banner_1_subtitle": "",
+      "banner_1_text_align": "left",
+      "banner_1_button_text": "",
+      "banner_1_link": "",
+      "banner_2_alt_text": "",
+      "banner_2_headline": "",
+      "banner_2_subtitle": "",
+      "banner_2_text_align": "left",
+      "banner_2_button_text": "",
+      "banner_2_link": "",
+      "banner_3_alt_text": "",
+      "banner_3_headline": "",
+      "banner_3_subtitle": "",
+      "banner_3_text_align": "left",
+      "banner_3_button_text": "",
+      "banner_3_link": "",
+      "frontpage_linklist": "",
+      "featured_links_per_row": "2",
+      "frontpage_text_align": "left",
+      "enable_featured_link_description": true,
+      "enable_featured_link_button": true,
+      "featured_promos_per_row": "4",
+      "featured_promos_grid": "full_width",
+      "promo_text_on_image_enabled": true,
+      "feature1_enabled": true,
+      "feature1_link": "",
+      "feature1_title": "Feature 1",
+      "feature1_description": "",
+      "feature1_button": "",
+      "feature2_enabled": true,
+      "feature2_link": "",
+      "feature2_title": "Feature 2",
+      "feature2_description": "",
+      "feature2_button": "",
+      "feature3_enabled": true,
+      "feature3_link": "",
+      "feature3_title": "Feature 3",
+      "feature3_description": "",
+      "feature3_button": "",
+      "feature4_enabled": true,
+      "feature4_link": "",
+      "feature4_title": "Feature 4",
+      "feature4_description": "",
+      "feature4_button": "",
+      "feature5_enabled": false,
+      "feature5_link": "",
+      "feature5_title": "Feature 5",
+      "feature5_description": "",
+      "feature5_button": "",
+      "feature6_enabled": false,
+      "feature6_link": "Feature 6",
+      "feature6_title": "",
+      "feature6_description": "",
+      "feature6_button": "",
+      "feature7_enabled": false,
+      "feature7_link": "",
+      "feature7_title": "Feature 7",
+      "feature7_description": "",
+      "feature7_button": "",
+      "feature8_enabled": false,
+      "feature8_link": "",
+      "feature8_title": "Feature 8",
+      "feature8_description": "",
+      "feature8_button": "",
+      "frontpage_collection": "",
+      "frontpage_collection2": "",
+      "frontpage_products_per_row": 3,
+      "frontpage_collection_full": "",
+      "frontpage_display_description": false,
+      "homepage": "",
+      "homepage2": "",
+      "homepage3": "",
+      "blog_widget_select": "news",
+      "home_page_articles": "3",
+      "twitter_widget": false,
+      "twitter_username": "",
+      "twitter_content_page": "",
+      "twitter_location": "right",
+      "twitter_theme": "light",
+      "tweet_count": "2",
+      "instagram_client_id": "",
+      "instagram_title": "Instagram",
+      "instagram_count": "1",
+      "banner_video_source": "vimeo",
+      "aspect_ratio": "16:9",
+      "banner_video_autoloop": true,
+      "banner_video_autoplay": false,
+      "banner_video_text": false,
+      "video_dark_overlay": false,
+      "banner_video_id": "174048285",
+      "banner_video_mp4": "",
+      "banner_video_ogv": "",
+      "banner_video_headline": "",
+      "banner_video_subtitle": "",
+      "banner_video_text_align": "",
+      "banner_video_button_text": "",
+      "banner_video_link": "",
+      "product_breadcrumb": true,
+      "display_tags": false,
+      "display_type": false,
+      "display_vendor": false,
+      "display_collections": true,
+      "display_sku": false,
+      "show_product_recommendations": true,
+      "product_images_position": "left",
+      "products_per_row": "3",
+      "pagination_limit": "48",
+      "collection_detail_position": "center",
+      "collection_tags": true,
+      "tag_threshold": "5",
+      "collection_sort": true,
+      "quick_shop_full_description": false,
+      "collection_sidebar": false,
+      "collection_sidebar_linklist": "",
+      "collection_sidebar_linklist2": "",
+      "filter_by_category": false,
+      "filter_by_tag": false,
+      "collection_sidebar_products": false,
+      "collection_sidebar_vendors": false,
+      "collection_sidebar_page": "",
+      "display_special_instructions": true,
+      "contact_address": "",
+      "zoom_level": "12",
+      "blog_posts_per_page": "4",
+      "blog_posts_per_row": "1",
+      "blog_tags": true,
+      "blog_author": true,
+      "blog_date": true,
+      "blog_comment_count": true,
+      "read_more_link": false,
+      "blog_additional_articles": true,
+      "slideshow_article_enabled": false,
+      "sidebar_enabled": true,
+      "blog_search": true,
+      "blog_newsletter": true,
+      "display_recent_articles": true,
+      "blog_sidebar_tags": true,
+      "blog_content_page": "",
+      "mailchimp_link": "",
+      "footer_newsletter": true,
+      "newsletter_popup_page": "",
+      "display_social_buttons": true,
+      "header_social_icons": true,
+      "footer_social_icons": true,
+      "checkout_use_header_image": false,
+      "checkout_use_storefront_logo": "",
+      "checkout_use_body_background_image": false,
+      "checkout_use_sidebar_background_image": false,
+      "cart_link": "\/checkout",
+      "blog_widget": true,
+      "shop_content_bg_color": "",
+      "checkout_banner_background_color": "#ffffff",
+      "checkout_call_to_action_color": "#ffa02f",
+      "checkout_background_color": "#ffffff",
+      "checkout_background_image": false,
+      "checkout_text_color": "#404040",
+      "checkout_headline_color": "#303030",
+      "collection_top_sidebar_page": "",
+      "video_width": "set",
+      "social_icons": "dark",
+      "header_share_button": false,
+      "shop_use_content_bg_color": false,
+      "slideshow_width_narrow": false,
+      "image_1_text_color": "#ffffff",
+      "image_2_text_color": "#ffffff",
+      "image_3_text_color": "#ffffff",
+      "image_4_text_color": "#ffffff",
+      "image_5_text_color": "#ffffff",
+      "image_6_text_color": "#ffffff",
+      "display_pinterest_button": true,
+      "display_fancy_button": true,
+      "option_to_match": "",
+      "quick_shop_text": "+ Quick View",
+      "tax_included": false,
+      "shipping_calculator_heading": "Shipping rates calculator",
+      "shipping_calculator_submit_button_label": "Calculate shipping rates",
+      "shipping_calculator_submit_button_label_disabled": "Calculating...",
+      "display_social_buttons_blog": true,
+      "newsletter_enabled": true,
+      "newsletter_text": "Mailing List",
+      "newsletter_description": "Sign up to get the latest on sales, new releases and more …",
+      "newsletter_system": "shopify",
+      "social_text": "Social",
+      "flickr_link": "",
+      "blog_rss": "news",
+      "use_paypal": false,
+      "use_bitcoin": false,
+      "use_visa": false,
+      "use_visaelectron": false,
+      "use_mastercard": false,
+      "use_amex": false,
+      "use_cirrus": false,
+      "use_delta": false,
+      "use_discover": false,
+      "use_google_checkout": false,
+      "use_western_union": false,
+      "sections": {
+        "header": {
+          "type": "header",
+          "settings": {
+            "announcement_message": "Announcement message",
+            "announcement_link": "",
+            "phone_number": "",
+            "top_bar_linklist": "",
+            "display_search_box": true,
+            "logo": "",
+            "logo_width": 280,
+            "logo_top_padding": 0,
+            "main_linklist": "main-menu",
+            "menu_top_padding": 0,
+            "cart_icon": "cart"
+          }
+        },
+        "footer": {
+          "type": "footer",
+          "settings": {
+            "footer_linklist_1": "main-menu",
+            "footer_linklist_2": "footer",
+            "footer_content_page": "",
+            "copyright_text": "",
+            "display_payment_methods": true
+          }
+        },
+        "1479351462524": {
+          "type": "slideshow",
+          "blocks": {
+            "1479351462524-0": {
+              "type": "image",
+              "settings": {
+                "image": "",
+                "title": "Mobilia Shopify Theme",
+                "text_position": "center",
+                "text_align": "center",
+                "link": ""
+              }
+            },
+            "1479351462524-1": {
+              "type": "image",
+              "settings": {
+                "image": "",
+                "title": "",
+                "text_position": "center",
+                "text_align": "left",
+                "link": ""
+              }
+            }
+          },
+          "block_order": [
+            "1479351462524-0",
+            "1479351462524-1"
+          ],
+          "settings": {
+            "slideshow_stretch": true,
+            "slideshow_animation": "fade",
+            "slideshow_text_animation": "fadeInUp",
+            "slideshow_speed": 6
+          }
+        },
+        "1481508702376": {
+          "type": "image-with-text-overlay-section",
+          "settings": {
+            "image_stretch": true,
+            "image": "",
+            "title": "Your Headline",
+            "button_label": "",
+            "link": "",
+            "text_position": "center",
+            "text_align": "center"
+          }
+        },
+        "1481508718225": {
+          "type": "featured-text",
+          "settings": {
+            "image": "",
+            "title": "Talk about your brand",
+            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.<\/p>",
+            "button_label": "",
+            "button_link": "",
+            "text_size": "featured_text",
+            "text_alignment": "center"
+          }
+        },
+        "1481508727922": {
+          "type": "featured-promotions",
+          "blocks": {
+            "1481508727922-0": {
+              "type": "image",
+              "settings": {
+              }
+            },
+            "1481508727922-1": {
+              "type": "image",
+              "settings": {
+              }
+            },
+            "1481508727922-2": {
+              "type": "image",
+              "settings": {
+              }
+            }
+          },
+          "block_order": [
+            "1481508727922-0",
+            "1481508727922-1",
+            "1481508727922-2"
+          ],
+          "settings": {
+            "promo_text_on_image_enabled": true,
+            "featured_promos_per_row": 3
+          }
+        },
+        "1481509059475": {
+          "type": "featured-collection",
+          "settings": {
+            "title": "Featured collection",
+            "frontpage_collection": "",
+            "frontpage_products_per_row": 3,
+            "frontpage_products_limit": 12
+          }
+        },
+        "1481509538374": {
+          "type": "instagram",
+          "settings": {
+            "instagram_client_id": "",
+            "instagram_count": 1
+          }
+        },
+        "1481511153564": {
+          "type": "featured-blog",
+          "settings": {
+            "title": "Blog posts",
+            "blog_widget_select": "",
+            "home_page_articles": 3
+          }
+        }
+      },
+      "content_for_index": [
+        "1479351462524",
+        "1481508718225",
+        "1481508727922",
+        "1481509059475",
+        "1481508702376",
+        "1481511153564",
+        "1481509538374"
+      ]
+    },
+    "Tokyo": {
+      "logo_color": "#000000",
+      "header_bg_color": "#eeeeee",
+      "top_menu_color": "#f55423",
+      "nav_color": "#0c0c0c",
+      "nav_color_hover": "#f55423",
+      "nav_color_active": "#f55423",
+      "dropdown_background_color": "#eeeeee",
+      "dropdown_border_color": "rgba(0,0,0,0)",
+      "headline_color": "#f55423",
+      "headline_border_color": "#f55423",
+      "regular_color": "#0c0c0c",
+      "link_color": "#f55423",
+      "link_hover_color": "#d61b1b",
+      "shop_bg_color": "#ffffff",
+      "custom_bg": "",
+      "repeat_bg": "repeat",
+      "bg_fixed": false,
+      "bg_stretched": false,
+      "border_color": "#eeeeee",
+      "table_styles_enabled": false,
+      "btn_color": "#f55423",
+      "btn_hover_color": "#d61b1b",
+      "btn_text_color": "#ffffff",
+      "button_style": "square",
+      "sale_color": "#d61b1b",
+      "was_price_color": "#9da6ae",
+      "sale_banner_color": "#d61b1b",
+      "new_banner_color": "#3f3f3f",
+      "modal_background_color": "#ffffff",
+      "quick_shop_button_color": "#f55423",
+      "quick_shop_button_hover_color": "#d61b1b",
+      "quick_shop_text_color": "#ffffff",
+      "social_icons_color": "#f55423",
+      "social_icons_color_hover": "#d61b1b",
+      "headline_footer_text_color": "#ffffff",
+      "footer_text_color": "#ffffff",
+      "footer_link_color": "#f55423",
+      "footer_link_color_hover": "#ffffff",
+      "footer_border_color": "rgba(0,0,0,0)",
+      "footer_color": "#3f3f3f",
+      "custom_footer": "",
+      "read_more_style": "button",
+      "shop_home_page_featured_text_bg_color": "#f0ecee",
+      "shop_home_page_image_bg_color": "#ffffff",
+      "shop_home_page_bg_color": "#f0ecee",
+      "banner_color": "#ffffff",
+      "testimonial_bg_color": "#ffffff",
+      "testimonial_text_color": "#404040",
+      "newsletter_popup_color": "#404040",
+      "newsletter_popup_background_color": "#ffffff",
+      "newsletter_bg": "",
+      "newsletter_bg_stretched": false,
+      "password_page_text_color": "#ffffff",
+      "password_page_heading_color": "#f55423",
+      "password_page_background_color": "#a19e9e",
+      "logo__font": "asap_n4",
+      "logo_font_style": "none",
+      "logo_font_size": 34,
+      "headline__font": "oswald_n4",
+      "headline_font_style": "none",
+      "headline_font_size": 25,
+      "headline_letter_spacing": 1,
+      "headline_border": "thin_short",
+      "nav__font": "oswald_n4",
+      "nav_font_style": "uppercase",
+      "nav_font_size": 14,
+      "nav_letter_spacing": 1,
+      "top_menu_size": 13,
+      "button_font_style": "uppercase",
+      "button_font_size": 14,
+      "button_letter_spacing": 1,
+      "regular__font": "helvetica_n4",
+      "regular_font_style": "none",
+      "regular_font_size": 15,
+      "footer_font_size": 15,
+      "slideshow_headline__font": "oswald_n4",
+      "slideshow_headline_size": 42,
+      "slideshow_subtitle__font": "asap_n4",
+      "slideshow_subtitle_font_style": "none",
+      "slideshow_subtitle_size": 20,
+      "align_height": false,
+      "collection_height": 200,
+      "collection_secondary_image": true,
+      "display_vendor_collection": false,
+      "sale_banner_enabled": true,
+      "thumbnail_border_enabled": false,
+      "collection_swatches": false,
+      "product_price_alignment": "center",
+      "mobile_products_per_row": "1",
+      "display_product_quantity": true,
+      "limit_quantity": false,
+      "display_inventory_left": false,
+      "inventory_threshold": 10,
+      "product_form_style": "dropdown",
+      "free_price_text": "Free",
+      "size_chart": "",
+      "notify_me_form": false,
+      "notify_me_richtext": "<p>Notify me when this product is available:<\/p>",
+      "product_slideshow_animation": "slide",
+      "thumbnail_position": "bottom-thumbnails",
+      "slideshow_speed": 8,
+      "quick_shop_enabled": false,
+      "product_description_position": "top",
+      "description_words": "15",
+      "show_payment_button": true,
+      "enable_shopify_review_comments": true,
+      "review_position": "bottom",
+      "enable_shopify_collection_badges": false,
+      "enable_shopify_product_badges": false,
+      "cart_action": "ajax",
+      "display_tos_checkbox": false,
+      "show_shipping_calculator": true,
+      "shipping_calculator_default_country": "United States",
+      "disqus_enabled": false,
+      "disqus_shortname": "",
+      "show_multiple_currencies": false,
+      "currency_format": "money_with_currency_format",
+      "supported_currencies": "USD CAD INR GBP AUD EUR JPY",
+      "default_currency": "USD",
+      "newsletter_popup": false,
+      "newsletter_popup_mobile": false,
+      "newsletter_popup_title": "Subscribe today!",
+      "newsletter_popup_image": "shopify:\/\/shop_images\/goldfish1.jpg",
+      "popup_image_position": "left",
+      "newsletter_popup_text": "<p>Join our monthly snack box club to experience the best of Japan through candies.<\/p>",
+      "newsletter_popup_link": "",
+      "newsletter_popup_max_width": 580,
+      "newsletter_popup_seconds": 0,
+      "newsletter_popup_days": "2",
+      "newsletter_popup_form": true,
+      "display_first_name": false,
+      "display_last_name": false,
+      "social_icon_circle": true,
+      "twitter_link": "https:\/\/twitter.com\/shopify",
+      "facebook_link": "https:\/\/facebook.com\/shopify",
+      "youtube_link": "https:\/\/youtube.com\/user\/shopify",
+      "vimeo_link": "https:\/\/vimeo.com\/shopify",
+      "pinterest_link": "https:\/\/pinterest.com\/shopify",
+      "tumblr_link": "https:\/\/shopify.tumblr.com\/",
+      "instagram_link": "https:\/\/instagram.com\/shopify",
+      "snapchat_link": "https:\/\/www.snapchat.com\/add\/shopify",
+      "houzz_link": "",
+      "linkedin_link": "",
+      "email_link": "",
+      "search_option": "products",
+      "favicon": "shopify:\/\/shop_images\/favicon.png",
+      "checkout_header_image": "shopify:\/\/shop_images\/candy_981d89e4-4727-4a3f-ac46-d73cd26a00b5.jpg",
+      "checkout_logo_image": "shopify:\/\/shop_images\/logo7a.png",
+      "checkout_logo_position": "left",
+      "checkout_logo_size": "medium",
+      "checkout_body_background_image": "",
+      "checkout_body_background_color": "#ffffff",
+      "checkout_input_background_color_mode": "white",
+      "checkout_sidebar_background_image": "",
+      "checkout_sidebar_background_color": "#eeeeee",
+      "checkout_heading_font": "Oswald",
+      "checkout_body_font": "Helvetica Neue",
+      "checkout_accent_color": "#f55423",
+      "checkout_button_color": "#f55423",
+      "checkout_error_color": "#d61b1b",
+      "featured_links_background": "#ffffff",
+      "promo_bg_color": "#1e1e1e",
+      "promo_text_color": "#e7e6e4",
+      "use_custom_footer_image": false,
+      "home_page_border_color": "#f2f2f2",
+      "shop_use_home_page_content_bg_color": true,
+      "use_custom_bg_image": false,
+      "use_password_bg_image": true,
+      "pagework_page_bg_stretched": true,
+      "use_newsletter_bg_image": true,
+      "button_weight": "bold",
+      "slideshow_subtitle__font_style": "none",
+      "use_logo": false,
+      "logo_width": "240",
+      "cart_icon": "bag",
+      "display_search_box": true,
+      "main_linklist": "main-menu",
+      "top_bar_linklist": "",
+      "phone_number": "",
+      "logo_top_padding": "6",
+      "menu_top_padding": "0",
+      "promo_text": "",
+      "featured_content_page": "",
+      "footer_linklist_1": "main-menu",
+      "footer_linklist_2": "footer",
+      "footer_content_page": "",
+      "copyright_text": "",
+      "display_payment_methods": true,
+      "slideshow_enabled": true,
+      "slideshow_animation": "fade",
+      "slideshow_text_animation": "fadeInDown",
+      "slideshow_stretch": true,
+      "slideshow_1_enabled": true,
+      "image_1_alt_text": "Mobilia Shopify Theme",
+      "image_1_headline": "Mobilia Shopify Theme",
+      "image_1_subtitle": "",
+      "image_1_text_align": "center",
+      "image_1_button_text": "",
+      "image_1_link": "",
+      "slideshow_2_enabled": true,
+      "image_2_alt_text": "",
+      "image_2_headline": "",
+      "image_2_subtitle": "",
+      "image_2_text_align": "right",
+      "image_2_button_text": "",
+      "image_2_link": "",
+      "slideshow_3_enabled": false,
+      "image_3_alt_text": "",
+      "image_3_headline": "",
+      "image_3_subtitle": "",
+      "image_3_text_align": "center",
+      "image_3_button_text": "",
+      "image_3_link": "",
+      "slideshow_4_enabled": false,
+      "image_4_alt_text": "",
+      "image_4_headline": "",
+      "image_4_subtitle": "",
+      "image_4_text_align": "left",
+      "image_4_button_text": "",
+      "image_4_link": "",
+      "slideshow_5_enabled": false,
+      "image_5_alt_text": "",
+      "image_5_headline": "",
+      "image_5_subtitle": "",
+      "image_5_text_align": "left",
+      "image_5_button_text": "",
+      "image_5_link": "",
+      "slideshow_6_enabled": false,
+      "image_6_alt_text": "",
+      "image_6_headline": "",
+      "image_6_subtitle": "",
+      "image_6_text_align": "left",
+      "image_6_button_text": "",
+      "image_6_link": "",
+      "banner_1_alt_text": "",
+      "banner_1_headline": "",
+      "banner_1_subtitle": "",
+      "banner_1_text_align": "left",
+      "banner_1_button_text": "",
+      "banner_1_link": "",
+      "banner_2_alt_text": "",
+      "banner_2_headline": "",
+      "banner_2_subtitle": "",
+      "banner_2_text_align": "left",
+      "banner_2_button_text": "",
+      "banner_2_link": "",
+      "banner_3_alt_text": "",
+      "banner_3_headline": "",
+      "banner_3_subtitle": "",
+      "banner_3_text_align": "left",
+      "banner_3_button_text": "",
+      "banner_3_link": "",
+      "frontpage_linklist": "",
+      "featured_links_per_row": "2",
+      "frontpage_text_align": "left",
+      "enable_featured_link_description": true,
+      "enable_featured_link_button": true,
+      "featured_promos_per_row": "4",
+      "promo_text_on_image_enabled": true,
+      "feature1_enabled": true,
+      "feature1_link": "",
+      "feature1_title": "Feature 1",
+      "feature1_description": "",
+      "feature1_button": "",
+      "feature2_enabled": true,
+      "feature2_link": "",
+      "feature2_title": "Feature 2",
+      "feature2_description": "",
+      "feature2_button": "",
+      "feature3_enabled": true,
+      "feature3_link": "",
+      "feature3_title": "Feature 3",
+      "feature3_description": "",
+      "feature3_button": "",
+      "feature4_enabled": true,
+      "feature4_link": "",
+      "feature4_title": "Feature 4",
+      "feature4_description": "",
+      "feature4_button": "",
+      "feature5_enabled": false,
+      "feature5_link": "",
+      "feature5_title": "Feature 5",
+      "feature5_description": "",
+      "feature5_button": "",
+      "feature6_enabled": false,
+      "feature6_link": "Feature 6",
+      "feature6_title": "",
+      "feature6_description": "",
+      "feature6_button": "",
+      "feature7_enabled": false,
+      "feature7_link": "",
+      "feature7_title": "Feature 7",
+      "feature7_description": "",
+      "feature7_button": "",
+      "feature8_enabled": false,
+      "feature8_link": "",
+      "feature8_title": "Feature 8",
+      "feature8_description": "",
+      "feature8_button": "",
+      "frontpage_collection": "",
+      "frontpage_collection2": "",
+      "frontpage_products_per_row": 3,
+      "frontpage_collection_full": "",
+      "frontpage_display_description": false,
+      "homepage": "",
+      "homepage2": "",
+      "homepage3": "",
+      "blog_widget_select": "news",
+      "home_page_articles": "3",
+      "twitter_widget": false,
+      "twitter_username": "",
+      "twitter_content_page": "",
+      "twitter_location": "right",
+      "twitter_theme": "light",
+      "tweet_count": "2",
+      "instagram_client_id": "",
+      "instagram_title": "Instagram",
+      "instagram_count": "1",
+      "banner_video_source": "vimeo",
+      "aspect_ratio": "16:9",
+      "banner_video_autoloop": true,
+      "banner_video_autoplay": false,
+      "banner_video_text": false,
+      "video_dark_overlay": false,
+      "banner_video_id": "174048285",
+      "banner_video_mp4": "",
+      "banner_video_ogv": "",
+      "banner_video_headline": "",
+      "banner_video_subtitle": "",
+      "banner_video_text_align": "",
+      "banner_video_button_text": "",
+      "banner_video_link": "",
+      "product_breadcrumb": true,
+      "display_tags": false,
+      "display_type": false,
+      "display_vendor": false,
+      "display_collections": true,
+      "display_sku": false,
+      "show_product_recommendations": true,
+      "product_images_position": "left",
+      "products_per_row": "3",
+      "pagination_limit": "48",
+      "collection_detail_position": "center",
+      "collection_tags": true,
+      "tag_threshold": "5",
+      "collection_sort": true,
+      "quick_shop_full_description": false,
+      "collection_sidebar": false,
+      "collection_sidebar_linklist": "",
+      "collection_sidebar_linklist2": "",
+      "filter_by_category": false,
+      "filter_by_tag": false,
+      "collection_sidebar_products": false,
+      "collection_sidebar_vendors": false,
+      "collection_sidebar_page": "",
+      "display_special_instructions": true,
+      "contact_address": "",
+      "zoom_level": "12",
+      "blog_posts_per_page": "4",
+      "blog_posts_per_row": "1",
+      "blog_tags": true,
+      "blog_author": true,
+      "blog_date": true,
+      "blog_comment_count": true,
+      "read_more_link": false,
+      "blog_additional_articles": true,
+      "slideshow_article_enabled": false,
+      "sidebar_enabled": true,
+      "blog_search": true,
+      "blog_newsletter": true,
+      "display_recent_articles": true,
+      "blog_sidebar_tags": true,
+      "blog_content_page": "",
+      "mailchimp_link": "",
+      "footer_newsletter": true,
+      "newsletter_popup_page": "",
+      "display_social_buttons": true,
+      "header_social_icons": true,
+      "footer_social_icons": true,
+      "checkout_use_header_image": false,
+      "checkout_use_storefront_logo": "",
+      "checkout_use_body_background_image": false,
+      "checkout_use_sidebar_background_image": false,
+      "cart_link": "\/checkout",
+      "blog_widget": true,
+      "shop_content_bg_color": "",
+      "checkout_banner_background_color": "#ffffff",
+      "checkout_call_to_action_color": "#ffa02f",
+      "checkout_background_color": "#ffffff",
+      "checkout_background_image": false,
+      "checkout_text_color": "#404040",
+      "checkout_headline_color": "#303030",
+      "collection_top_sidebar_page": "",
+      "video_width": "set",
+      "social_icons": "dark",
+      "header_share_button": false,
+      "shop_use_content_bg_color": false,
+      "slideshow_width_narrow": false,
+      "image_1_text_color": "#ffffff",
+      "image_2_text_color": "#ffffff",
+      "image_3_text_color": "#ffffff",
+      "image_4_text_color": "#ffffff",
+      "image_5_text_color": "#ffffff",
+      "image_6_text_color": "#ffffff",
+      "display_pinterest_button": true,
+      "display_fancy_button": true,
+      "option_to_match": "",
+      "quick_shop_text": "+ Quick View",
+      "tax_included": false,
+      "shipping_calculator_heading": "Shipping rates calculator",
+      "shipping_calculator_submit_button_label": "Calculate shipping rates",
+      "shipping_calculator_submit_button_label_disabled": "Calculating...",
+      "display_social_buttons_blog": true,
+      "newsletter_enabled": true,
+      "newsletter_text": "Mailing List",
+      "newsletter_description": "Sign up to get the latest on sales, new releases and more …",
+      "newsletter_system": "shopify",
+      "social_text": "Social",
+      "flickr_link": "",
+      "blog_rss": "news",
+      "use_paypal": false,
+      "use_bitcoin": false,
+      "use_visa": false,
+      "use_visaelectron": false,
+      "use_mastercard": false,
+      "use_amex": false,
+      "use_cirrus": false,
+      "use_delta": false,
+      "use_discover": false,
+      "use_google_checkout": false,
+      "use_western_union": false,
+      "sections": {
+        "header": {
+          "type": "header",
+          "settings": {
+            "announcement_message": "Announcement message",
+            "announcement_link": "",
+            "phone_number": "",
+            "top_bar_linklist": "",
+            "display_search_box": true,
+            "logo": "",
+            "logo_width": 280,
+            "logo_top_padding": 0,
+            "main_linklist": "main-menu",
+            "menu_top_padding": 0,
+            "cart_icon": "cart"
+          }
+        },
+        "footer": {
+          "type": "footer",
+          "settings": {
+            "footer_linklist_1": "main-menu",
+            "footer_linklist_2": "footer",
+            "footer_content_page": "",
+            "copyright_text": "",
+            "display_payment_methods": true
+          }
+        },
+        "1479351462524": {
+          "type": "slideshow",
+          "blocks": {
+            "1479351462524-0": {
+              "type": "image",
+              "settings": {
+                "image": "",
+                "title": "Mobilia Shopify Theme",
+                "text_position": "center",
+                "text_align": "center",
+                "link": ""
+              }
+            },
+            "1479351462524-1": {
+              "type": "image",
+              "settings": {
+                "image": "",
+                "title": "",
+                "text_position": "center",
+                "text_align": "left",
+                "link": ""
+              }
+            }
+          },
+          "block_order": [
+            "1479351462524-0",
+            "1479351462524-1"
+          ],
+          "settings": {
+            "slideshow_stretch": true,
+            "slideshow_animation": "fade",
+            "slideshow_text_animation": "fadeInUp",
+            "slideshow_speed": 6
+          }
+        },
+        "1481508702376": {
+          "type": "image-with-text-overlay-section",
+          "settings": {
+            "image_stretch": true,
+            "image": "",
+            "title": "Your Headline",
+            "button_label": "",
+            "link": "",
+            "text_position": "center",
+            "text_align": "center"
+          }
+        },
+        "1481508718225": {
+          "type": "featured-text",
+          "settings": {
+            "image": "",
+            "title": "Talk about your brand",
+            "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.<\/p>",
+            "button_label": "",
+            "button_link": "",
+            "text_size": "featured_text",
+            "text_alignment": "center"
+          }
+        },
+        "1481508727922": {
+          "type": "featured-promotions",
+          "blocks": {
+            "1481508727922-0": {
+              "type": "image",
+              "settings": {
+              }
+            },
+            "1481508727922-1": {
+              "type": "image",
+              "settings": {
+              }
+            },
+            "1481508727922-2": {
+              "type": "image",
+              "settings": {
+              }
+            }
+          },
+          "block_order": [
+            "1481508727922-0",
+            "1481508727922-1",
+            "1481508727922-2"
+          ],
+          "settings": {
+            "promo_text_on_image_enabled": true,
+            "featured_promos_per_row": 3
+          }
+        },
+        "1481509059475": {
+          "type": "featured-collection",
+          "settings": {
+            "title": "Featured collection",
+            "frontpage_collection": "",
+            "frontpage_products_per_row": 3,
+            "frontpage_products_limit": 12
+          }
+        },
+        "1481509538374": {
+          "type": "instagram",
+          "settings": {
+            "instagram_client_id": "",
+            "instagram_count": 1
+          }
+        },
+        "1481511153564": {
+          "type": "featured-blog",
+          "settings": {
+            "title": "Blog posts",
+            "blog_widget_select": "",
+            "home_page_articles": 3
+          }
+        }
+      },
+      "content_for_index": [
+        "1479351462524",
+        "1481508718225",
+        "1481508727922",
+        "1481509059475",
+        "1481508702376",
+        "1481511153564",
+        "1481509538374"
+      ]
+    }
+  },
+  "current": {
+    "logo_color": "#040707",
+    "header_bg_color": "#f9f7f0",
+    "top_menu_color": "#828181",
+    "nav_color": "#000000",
+    "nav_color_hover": "#000000",
+    "nav_color_active": "#000000",
+    "dropdown_background_color": "#f9f7f0",
+    "dropdown_border_color": "#f9f7f0",
+    "headline_color": "#040707",
+    "headline_border_color": "#616365",
+    "regular_color": "#000000",
+    "link_color": "#80686f",
+    "link_hover_color": "#80686f",
+    "shop_bg_color": "#f9f7f0",
+    "custom_bg": "",
+    "repeat_bg": "repeat",
+    "bg_fixed": false,
+    "bg_stretched": true,
+    "border_color": "#828181",
+    "table_styles_enabled": true,
+    "btn_color": "#80686f",
+    "btn_hover_color": "#000000",
+    "btn_text_color": "#f9f7f0",
+    "button_style": "square",
+    "banner_comingsoon": "#000000",
+    "banner_new": "#000000",
+    "banner_preorder": "#000000",
+    "banner_sale": "#000000",
+    "sale_color": "#18a18b",
+    "was_price_color": "#be312b",
+    "modal_background_color": "#f9f7f0",
+    "quick_shop_button_color": "#303030",
+    "quick_shop_button_hover_color": "#80686f",
+    "quick_shop_text_color": "#ffffff",
+    "social_icons_color": "#040707",
+    "social_icons_color_hover": "#0a0a0a",
+    "headline_footer_text_color": "#616365",
+    "footer_text_color": "#616365",
+    "footer_link_color": "#828181",
+    "footer_link_color_hover": "#040707",
+    "footer_border_color": "#80686f",
+    "footer_color": "#f9f7f0",
+    "custom_footer": "",
+    "read_more_style": "link",
+    "shop_home_page_featured_text_bg_color": "#f9f7f0",
+    "shop_home_page_image_bg_color": "#f9f7f0",
+    "shop_home_page_bg_color": "#ffffff",
+    "banner_color": "#ffffff",
+    "testimonial_bg_color": "#ffffff",
+    "testimonial_text_color": "#545454",
+    "newsletter_popup_color": "#545454",
+    "newsletter_popup_background_color": "#ffffff",
+    "newsletter_bg": "",
+    "newsletter_bg_stretched": false,
+    "password_page_text_color": "#ffffff",
+    "password_page_heading_color": "#be8a2b",
+    "password_page_background_color": "#000000",
+    "logo__font": "tenor_sans_n4",
+    "logo_font_style": "none",
+    "logo_font_size": 26,
+    "headline__font": "amiri_n4",
+    "headline_font_style": "none",
+    "headline_font_size": 33,
+    "headline_letter_spacing": 0,
+    "headline_border": "thin_short",
+    "title__font": "amiri_n4",
+    "subtitle__font": "amiri_n4",
+    "nav__font": "assistant_n4",
+    "nav_font_style": "none",
+    "nav_font_size": 15,
+    "nav_letter_spacing": 0,
+    "top_menu_size": 13,
+    "button_font_style": "uppercase",
+    "button_font_size": 16,
+    "button_letter_spacing": 0,
+    "regular__font": "assistant_n4",
+    "regular_font_style": "none",
+    "regular_font_size": 16,
+    "footer_font_size": 14,
+    "slideshow_headline__font": "amiri_n4",
+    "slideshow_headline_size": 60,
+    "slideshow_subtitle__font": "amiri_n4",
+    "slideshow_subtitle_font_style": "none",
+    "slideshow_subtitle_size": 35,
+    "align_height": true,
+    "collection_height": 350,
+    "collection_secondary_image": true,
+    "display_vendor_collection": false,
+    "sale_banner_enabled": true,
+    "thumbnail_border_enabled": false,
+    "collection_swatches": false,
+    "product_price_alignment": "center",
+    "mobile_products_per_row": "2",
+    "display_product_quantity": true,
+    "limit_quantity": true,
+    "display_inventory_left": false,
+    "inventory_threshold": 10,
+    "product_form_style": "dropdown",
+    "free_price_text": "Free",
+    "size_chart": "",
+    "notify_me_form": true,
+    "notify_me_richtext": "<p>Tenez-moi inform&eacute;(e) quand le produit sera de nouveau en stock.<\/p>",
+    "product_slideshow_animation": "slide",
+    "thumbnail_position": "bottom-thumbnails",
+    "slideshow_speed": 6,
+    "quick_shop_enabled": true,
+    "product_description_position": "top",
+    "description_words": "none",
+    "show_payment_button": true,
+    "enable_shopify_review_comments": true,
+    "review_position": "bottom",
+    "enable_shopify_collection_badges": true,
+    "enable_shopify_product_badges": true,
+    "cart_action": "redirect_cart",
+    "display_tos_checkbox": false,
+    "show_shipping_calculator": true,
+    "shipping_calculator_default_country": "France",
+    "disqus_enabled": false,
+    "disqus_shortname": "",
+    "show_multiple_currencies": false,
+    "currency_format": "money_format",
+    "supported_currencies": "USD CAD INR GBP AUD EUR JPY",
+    "default_currency": "USD",
+    "newsletter_popup": false,
+    "newsletter_popup_mobile": false,
+    "newsletter_popup_title": "nl header",
+    "newsletter_popup_image": "",
+    "popup_image_position": "left",
+    "newsletter_popup_text": "",
+    "newsletter_popup_link": "",
+    "newsletter_popup_max_width": 460,
+    "newsletter_popup_seconds": 4,
+    "newsletter_popup_days": "0",
+    "newsletter_popup_form": true,
+    "display_first_name": true,
+    "display_last_name": true,
+    "social_icon_circle": true,
+    "twitter_link": "",
+    "facebook_link": "https:\/\/www.facebook.com\/DomainedeMarie\/",
+    "youtube_link": "",
+    "vimeo_link": "",
+    "pinterest_link": "",
+    "tumblr_link": "",
+    "instagram_link": "https:\/\/www.instagram.com\/labastidedemarie\/",
+    "snapchat_link": "",
+    "houzz_link": "",
+    "linkedin_link": "",
+    "email_link": "",
+    "og_image_fallback": "shopify:\/\/shop_images\/logo_DM_fond_transparent_1.png",
+    "search_option": "everything",
+    "favicon": "shopify:\/\/shop_images\/favicon-domaine-de-marie.png",
+    "checkout_header_image": "",
+    "checkout_logo_image": "shopify:\/\/shop_images\/logo_DM_fond_transparent_1.png",
+    "checkout_logo_position": "left",
+    "checkout_logo_size": "medium",
+    "checkout_body_background_image": "",
+    "checkout_body_background_color": "#ffffff",
+    "checkout_input_background_color_mode": "white",
+    "checkout_sidebar_background_image": "",
+    "checkout_sidebar_background_color": "#fafafa",
+    "checkout_heading_font": "Helvetica Neue",
+    "checkout_body_font": "Helvetica Neue",
+    "checkout_accent_color": "#80686f",
+    "checkout_button_color": "#80686f",
+    "checkout_error_color": "#be312b",
+    "sale_banner_color": "#1f3492",
+    "new_banner_color": "#1f3492",
+    "featured_links_background": "#ffffff",
+    "promo_bg_color": "#1e1e1e",
+    "promo_text_color": "#e7e6e4",
+    "use_custom_footer_image": false,
+    "home_page_border_color": "#f2f2f2",
+    "shop_use_home_page_content_bg_color": true,
+    "use_custom_bg_image": false,
+    "use_password_bg_image": true,
+    "pagework_page_bg_stretched": true,
+    "use_newsletter_bg_image": true,
+    "button_weight": "bold",
+    "slideshow_subtitle__font_style": "none",
+    "use_logo": false,
+    "logo_width": "240",
+    "cart_icon": "bag",
+    "display_search_box": true,
+    "main_linklist": "main-menu",
+    "top_bar_linklist": "",
+    "phone_number": "",
+    "logo_top_padding": "6",
+    "menu_top_padding": "0",
+    "promo_text": "",
+    "featured_content_page": "",
+    "footer_linklist_1": "main-menu",
+    "footer_linklist_2": "footer",
+    "footer_content_page": "",
+    "copyright_text": "",
+    "display_payment_methods": true,
+    "slideshow_enabled": true,
+    "slideshow_animation": "fade",
+    "slideshow_text_animation": "fadeInDown",
+    "slideshow_stretch": true,
+    "slideshow_1_enabled": true,
+    "image_1_alt_text": "Mobilia Shopify Theme",
+    "image_1_headline": "Mobilia Shopify Theme",
+    "image_1_subtitle": "",
+    "image_1_text_align": "center",
+    "image_1_button_text": "",
+    "image_1_link": "",
+    "slideshow_2_enabled": true,
+    "image_2_alt_text": "",
+    "image_2_headline": "",
+    "image_2_subtitle": "",
+    "image_2_text_align": "right",
+    "image_2_button_text": "",
+    "image_2_link": "",
+    "slideshow_3_enabled": false,
+    "image_3_alt_text": "",
+    "image_3_headline": "",
+    "image_3_subtitle": "",
+    "image_3_text_align": "center",
+    "image_3_button_text": "",
+    "image_3_link": "",
+    "slideshow_4_enabled": false,
+    "image_4_alt_text": "",
+    "image_4_headline": "",
+    "image_4_subtitle": "",
+    "image_4_text_align": "left",
+    "image_4_button_text": "",
+    "image_4_link": "",
+    "slideshow_5_enabled": false,
+    "image_5_alt_text": "",
+    "image_5_headline": "",
+    "image_5_subtitle": "",
+    "image_5_text_align": "left",
+    "image_5_button_text": "",
+    "image_5_link": "",
+    "slideshow_6_enabled": false,
+    "image_6_alt_text": "",
+    "image_6_headline": "",
+    "image_6_subtitle": "",
+    "image_6_text_align": "left",
+    "image_6_button_text": "",
+    "image_6_link": "",
+    "banner_1_alt_text": "",
+    "banner_1_headline": "",
+    "banner_1_subtitle": "",
+    "banner_1_text_align": "left",
+    "banner_1_button_text": "",
+    "banner_1_link": "",
+    "banner_2_alt_text": "",
+    "banner_2_headline": "",
+    "banner_2_subtitle": "",
+    "banner_2_text_align": "left",
+    "banner_2_button_text": "",
+    "banner_2_link": "",
+    "banner_3_alt_text": "",
+    "banner_3_headline": "",
+    "banner_3_subtitle": "",
+    "banner_3_text_align": "left",
+    "banner_3_button_text": "",
+    "banner_3_link": "",
+    "frontpage_linklist": "",
+    "featured_links_per_row": "2",
+    "frontpage_text_align": "left",
+    "enable_featured_link_description": true,
+    "enable_featured_link_button": true,
+    "featured_promos_per_row": "4",
+    "featured_promos_grid": "full_width",
+    "promo_text_on_image_enabled": true,
+    "feature1_enabled": true,
+    "feature1_link": "",
+    "feature1_title": "Feature 1",
+    "feature1_description": "",
+    "feature1_button": "",
+    "feature2_enabled": true,
+    "feature2_link": "",
+    "feature2_title": "Feature 2",
+    "feature2_description": "",
+    "feature2_button": "",
+    "feature3_enabled": true,
+    "feature3_link": "",
+    "feature3_title": "Feature 3",
+    "feature3_description": "",
+    "feature3_button": "",
+    "feature4_enabled": true,
+    "feature4_link": "",
+    "feature4_title": "Feature 4",
+    "feature4_description": "",
+    "feature4_button": "",
+    "feature5_enabled": false,
+    "feature5_link": "",
+    "feature5_title": "Feature 5",
+    "feature5_description": "",
+    "feature5_button": "",
+    "feature6_enabled": false,
+    "feature6_link": "Feature 6",
+    "feature6_title": "",
+    "feature6_description": "",
+    "feature6_button": "",
+    "feature7_enabled": false,
+    "feature7_link": "",
+    "feature7_title": "Feature 7",
+    "feature7_description": "",
+    "feature7_button": "",
+    "feature8_enabled": false,
+    "feature8_link": "",
+    "feature8_title": "Feature 8",
+    "feature8_description": "",
+    "feature8_button": "",
+    "frontpage_collection": "",
+    "frontpage_collection2": "",
+    "frontpage_products_per_row": 3,
+    "frontpage_collection_full": "",
+    "frontpage_display_description": false,
+    "homepage": "",
+    "homepage2": "",
+    "homepage3": "",
+    "blog_widget_select": "news",
+    "home_page_articles": "3",
+    "twitter_widget": false,
+    "twitter_username": "",
+    "twitter_content_page": "",
+    "twitter_location": "right",
+    "twitter_theme": "light",
+    "tweet_count": "2",
+    "instagram_client_id": "",
+    "instagram_title": "Instagram",
+    "instagram_count": "1",
+    "banner_video_source": "vimeo",
+    "aspect_ratio": "16:9",
+    "banner_video_autoloop": true,
+    "banner_video_autoplay": false,
+    "banner_video_text": false,
+    "video_dark_overlay": false,
+    "banner_video_id": "174048285",
+    "banner_video_mp4": "",
+    "banner_video_ogv": "",
+    "banner_video_headline": "",
+    "banner_video_subtitle": "",
+    "banner_video_text_align": "",
+    "banner_video_button_text": "",
+    "banner_video_link": "",
+    "product_breadcrumb": true,
+    "display_tags": false,
+    "display_type": false,
+    "display_vendor": false,
+    "display_collections": true,
+    "display_sku": false,
+    "show_product_recommendations": true,
+    "product_images_position": "left",
+    "products_per_row": "3",
+    "pagination_limit": "48",
+    "collection_detail_position": "center",
+    "collection_tags": true,
+    "tag_threshold": "5",
+    "collection_sort": true,
+    "quick_shop_full_description": false,
+    "collection_sidebar": false,
+    "collection_sidebar_linklist": "",
+    "collection_sidebar_linklist2": "",
+    "filter_by_category": false,
+    "filter_by_tag": false,
+    "collection_sidebar_products": false,
+    "collection_sidebar_vendors": false,
+    "collection_sidebar_page": "",
+    "display_special_instructions": true,
+    "contact_address": "",
+    "zoom_level": "12",
+    "blog_posts_per_page": "4",
+    "blog_posts_per_row": "1",
+    "blog_tags": true,
+    "blog_author": true,
+    "blog_date": true,
+    "blog_comment_count": true,
+    "read_more_link": false,
+    "blog_additional_articles": true,
+    "slideshow_article_enabled": false,
+    "sidebar_enabled": true,
+    "blog_search": true,
+    "blog_newsletter": true,
+    "display_recent_articles": true,
+    "blog_sidebar_tags": true,
+    "blog_content_page": "",
+    "mailchimp_link": "",
+    "footer_newsletter": true,
+    "newsletter_popup_page": "",
+    "display_social_buttons": true,
+    "header_social_icons": true,
+    "footer_social_icons": true,
+    "checkout_use_header_image": false,
+    "checkout_use_storefront_logo": "",
+    "checkout_use_body_background_image": false,
+    "checkout_use_sidebar_background_image": false,
+    "cart_link": "\/checkout",
+    "blog_widget": true,
+    "shop_content_bg_color": "",
+    "checkout_banner_background_color": "#ffffff",
+    "checkout_call_to_action_color": "#ffa02f",
+    "checkout_background_color": "#ffffff",
+    "checkout_background_image": false,
+    "checkout_text_color": "#404040",
+    "checkout_headline_color": "#303030",
+    "collection_top_sidebar_page": "",
+    "video_width": "set",
+    "social_icons": "dark",
+    "header_share_button": false,
+    "shop_use_content_bg_color": false,
+    "slideshow_width_narrow": false,
+    "image_1_text_color": "#ffffff",
+    "image_2_text_color": "#ffffff",
+    "image_3_text_color": "#ffffff",
+    "image_4_text_color": "#ffffff",
+    "image_5_text_color": "#ffffff",
+    "image_6_text_color": "#ffffff",
+    "display_pinterest_button": true,
+    "display_fancy_button": true,
+    "option_to_match": "",
+    "quick_shop_text": "+ Quick View",
+    "tax_included": false,
+    "shipping_calculator_heading": "Shipping rates calculator",
+    "shipping_calculator_submit_button_label": "Calculate shipping rates",
+    "shipping_calculator_submit_button_label_disabled": "Calculating...",
+    "display_social_buttons_blog": true,
+    "newsletter_enabled": true,
+    "newsletter_text": "Mailing List",
+    "newsletter_description": "Sign up to get the latest on sales, new releases and more …",
+    "newsletter_system": "shopify",
+    "social_text": "Social",
+    "flickr_link": "",
+    "blog_rss": "news",
+    "use_paypal": false,
+    "use_bitcoin": false,
+    "use_visa": false,
+    "use_visaelectron": false,
+    "use_mastercard": false,
+    "use_amex": false,
+    "use_cirrus": false,
+    "use_delta": false,
+    "use_discover": false,
+    "use_google_checkout": false,
+    "use_western_union": false,
+    "sections": {
+      "header": {
+        "type": "header",
+        "settings": {
+          "show_announcement_bar": false,
+          "announcement_homepage_only": false,
+          "announcement_message": "Contact",
+          "announcement_link": "",
+          "announcement_color": "#000000",
+          "announcement_text_color": "#ffffff",
+          "phone_number": "",
+          "header_social_icons": false,
+          "top_bar_linklist": "top-menu",
+          "display_search_box": false,
+          "logo": "shopify:\/\/shop_images\/DM_noir_fond_transparent.png",
+          "logo_width": 200,
+          "logo_top_padding": 15,
+          "main_linklist": "main-menu",
+          "menu_top_padding": 0,
+          "cart_icon": "bag"
+        }
+      },
+      "footer": {
+        "type": "footer",
+        "settings": {
+          "footer_linklist_1": "main-menu",
+          "footer_linklist_2": "footer",
+          "richtext": "<p>Inscrivez-vous &agrave; notre newsletter<\/p>",
+          "footer_social_icons": true,
+          "footer_content_page": "",
+          "copyright_text": "",
+          "display_payment_methods": true,
+          "footer_newsletter": true,
+          "display_first_name": false,
+          "display_last_name": false
+        }
+      },
+      "1481508718225": {
+        "type": "featured-text",
+        "settings": {
+          "image": "",
+          "title": "LA PROVENCE AUTHENTIQUE",
+          "subtitle": "Une Bastide, Un Domaine",
+          "subtitle-size": 29,
+          "subtitle-color": "#80686f",
+          "content": "<p>Entre M&eacute;nerbes et Bonnieux, vous apercevrez une &eacute;l&eacute;gante demeure datant du XVIII&egrave;me. Une ferme de pays restaur&eacute;e dans le respect de la pure tradition du mas Proven&ccedil;ale. Nich&eacute;s au c&oelig;ur de 23 hectares de vignes, La Bastide de Marie&nbsp; et le Domaine de Marie s&rsquo;&eacute;panouissent forts de racines authentiques. On y acc&egrave;de en empruntant une all&eacute;e bord&eacute;e de cypr&egrave;s, d&rsquo;oliviers centenaires et de lavandes au parfum envo&ucirc;tant. Une nature embl&eacute;matique qui indique que vous &ecirc;tes sur une terre o&ugrave; l&rsquo;on respire au rythme la nature. Le Domaine vous accueille toute l'ann&eacute;e dans son caveau autour d'activit&eacute;s oenotouristiques, de s&eacute;minaires et wine tours.<\/p>",
+          "button_label": "",
+          "button_link": "",
+          "text_size": "featured_text",
+          "text_alignment": "center"
+        }
+      },
+      "1481508727922": {
+        "type": "featured-promotions",
+        "blocks": {
+          "1481508727922-0": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Pascal_Lebeau_SAUF_PUB_PLPN00121254A2BastideDeMarie_5.jpg",
+              "link": "shopify:\/\/pages\/la-propriete",
+              "title": "Le Domaine",
+              "text": "",
+              "button_label": "Découvrir"
+            }
+          },
+          "1481508727922-1": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Pascal_Lebeau_SAUF_PUB_PLPN00121254A2BastideDeMarie_11.jpg",
+              "link": "shopify:\/\/pages\/nos-vins",
+              "title": "Nos vins",
+              "text": "",
+              "button_label": "Découvrir"
+            }
+          },
+          "1481508727922-2": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Restaurants_-_MP._Morel_10.jpg",
+              "link": "shopify:\/\/pages\/hebergement-et-restauration",
+              "title": "Hébergement & Restauration",
+              "text": "",
+              "button_label": "Découvrir"
+            }
+          }
+        },
+        "block_order": [
+          "1481508727922-0",
+          "1481508727922-1",
+          "1481508727922-2"
+        ],
+        "settings": {
+          "wide_display": false,
+          "promo_text_on_image_enabled": true,
+          "featured_promos_per_row": 3
+        }
+      },
+      "1481509059475": {
+        "type": "featured-collection",
+        "settings": {
+          "title": "Nos meilleures ventes",
+          "frontpage_collection": "les-rouges",
+          "frontpage_products_per_row": 3,
+          "frontpage_products_limit": 12
+        }
+      },
+      "1481509538374": {
+        "type": "instagram",
+        "disabled": true,
+        "settings": {
+          "instagram_client_id": "",
+          "title": "@labastidedemarie",
+          "instagram_count": 1
+        }
+      },
+      "product__sidebar": {
+        "type": "product__sidebar",
+        "settings": {
+          "toggle": false
+        }
+      },
+      "product-template": {
+        "type": "product-template",
+        "settings": {
+          "product_breadcrumb": true,
+          "show_collection_link": true,
+          "display_sku": false,
+          "display_tags": false,
+          "display_type": false,
+          "display_vendor": false,
+          "display_collections": false,
+          "display_social_buttons": true,
+          "product_description_position": "top",
+          "product_images_position": "left",
+          "show_payment_button": true
+        }
+      },
+      "product-recommendations": {
+        "type": "product-recommendations",
+        "settings": {
+          "show_product_recommendations": true,
+          "product_recommendations_heading": "Vous aimerez aussi...",
+          "products_per_row": 3,
+          "recommended_products_limit": 3
+        }
+      },
+      "collection-template": {
+        "type": "collection-template",
+        "blocks": {
+          "1579616008397": {
+            "type": "filter_by_collection",
+            "settings": {
+            }
+          }
+        },
+        "block_order": [
+          "1579616008397"
+        ],
+        "settings": {
+          "collection_sort": false,
+          "collection_tags": false,
+          "tag_threshold": 4,
+          "products_per_row": 3,
+          "pagination_limit": 20,
+          "toggle": false
+        }
+      },
+      "collection-banner-template": {
+        "type": "collection-banner-template",
+        "settings": {
+          "collection_sort": false,
+          "collection_tags": false,
+          "tag_threshold": 5,
+          "products_per_row": 2,
+          "pagination_limit": 48,
+          "toggle": false
+        }
+      },
+      "list-collections-template": {
+        "type": "list-collections-template",
+        "settings": {
+          "collections_per_row": 3,
+          "pagination_limit": 48
+        }
+      },
+      "slideshow_nosvins": {
+        "type": "slideshow_nosvins",
+        "blocks": {
+          "1576072795726": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Copy_of_Copy_of_Untitled_Design_b253b449-c77f-4a40-9a7e-01f65741c175.jpg",
+              "title": "Nos vins",
+              "subtext": "",
+              "image_button_label": "",
+              "text_position": "center",
+              "text_align": "center",
+              "link": ""
+            }
+          }
+        },
+        "block_order": [
+          "1576072795726"
+        ],
+        "settings": {
+          "slideshow_stretch": true,
+          "slideshow_animation": "slide",
+          "slideshow_text_animation": "fadeInDown",
+          "slideshow_speed": 6
+        }
+      },
+      "featured-collection_nosvins": {
+        "type": "featured-collection_nosvins",
+        "settings": {
+          "title": "Les rouges",
+          "frontpage_collection": "les-rouges",
+          "frontpage_products_per_row": 3,
+          "frontpage_products_limit": 12,
+          "anchor": "lesrouges"
+        }
+      },
+      "featured-collection_nosvins2": {
+        "type": "featured-collection_nosvins2",
+        "settings": {
+          "title": "Les blancs",
+          "frontpage_collection": "les-blancs",
+          "frontpage_products_per_row": 2,
+          "frontpage_products_limit": 12,
+          "anchor": "lesblancs"
+        }
+      },
+      "featured-collection_nosvins3": {
+        "type": "featured-collection_nosvins3",
+        "settings": {
+          "title": "Les rosés",
+          "frontpage_collection": "les-roses",
+          "frontpage_products_per_row": 3,
+          "frontpage_products_limit": 12,
+          "anchor": "lesroses"
+        }
+      },
+      "slideshow-lapropriete": {
+        "type": "slideshow-lapropriete",
+        "blocks": {
+          "1576076615587": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Untitled_design_13.jpg",
+              "title": "Le Domaine",
+              "subtext": "L'ART DE VIVRE AU COEUR DES VIGNES",
+              "image_button_label": "",
+              "text_position": "center",
+              "text_align": "center",
+              "link": ""
+            }
+          }
+        },
+        "block_order": [
+          "1576076615587"
+        ],
+        "settings": {
+          "slideshow_stretch": true,
+          "slideshow_animation": "fade",
+          "slideshow_text_animation": "fadeInDown",
+          "slideshow_speed": 6
+        }
+      },
+      "image-text-lapropriete": {
+        "type": "image-text-lapropriete",
+        "blocks": {
+          "1576076647567": {
+            "type": "image",
+            "settings": {
+              "margin-top": 50,
+              "grid_text_position": "left",
+              "image": "shopify:\/\/shop_images\/domaine-de-marie-famille-sibuet.jpg",
+              "link": "",
+              "title": "LES HOMMES",
+              "title-size": 30,
+              "subtitle": "L'histoire d'une rencontre",
+              "subtitle-size": 29,
+              "subtitle-color": "#80686f",
+              "text": "<p>Le Domaine de Marie est n&eacute; de la rencontre d&rsquo;un homme et de sa passion.&nbsp;Jean-Louis Sibuet, le propri&eacute;taire a rachet&eacute; le Domaine en 2000 et a travaill&eacute; &agrave; la restructuration du vignoble. &laquo;&nbsp;Les vieux c&eacute;pages nobles tels que Grenache et Syrah ont &eacute;t&eacute; conserv&eacute;s tandis que les moins qualitatifs ont &eacute;t&eacute; arrach&eacute;s et remplac&eacute;s par des nouveaux comme Roussanne, Vermantino, Cinsault et Mourvedre. Petit &agrave; petit, il transmettra l&rsquo;amour du vin &agrave; son fils Nicolas qui s&rsquo;investit alors avec ferveur dans l&rsquo;aventure familiale participant ainsi &agrave; inscrire les vins du Domaine dans les registres de l&rsquo;excellence&nbsp;&raquo; explique Arnaud Bressi, maitre de Chai<\/p>",
+              "button_label": "",
+              "frontpage_text_align": "center",
+              "anchor": "les-hommes"
+            }
+          },
+          "1576076637816": {
+            "type": "image",
+            "settings": {
+              "margin-top": 50,
+              "grid_text_position": "left",
+              "image": "shopify:\/\/shop_images\/vignoble-domaine-marie-menerbes-900.jpg",
+              "link": "shopify:\/\/pages\/nos-vins",
+              "title": "LE VIGNOBLE",
+              "title-size": 30,
+              "subtitle": "La richesse du Domaine",
+              "subtitle-size": 28,
+              "subtitle-color": "#80686f",
+              "text": "<p>C&rsquo;est au c&oelig;ur de cet environnement, &agrave; quelques kilom&egrave;tres du c&eacute;l&egrave;bre village de Gordes, que les 23 hectares de vignes du Domaine de Marie, r&eacute;partis en &nbsp;3 terroirs diff&eacute;rents, sont soigneusement cultiv&eacute;s.<br> Les microclimats, la diversit&eacute; des sols et leur exposition au couchant sont des atouts naturels d&eacute;terminant afin que s&rsquo;expriment naturellement les ar&ocirc;mes et les particularit&eacute;s de chaque c&eacute;page. Ces c&eacute;pages qui sont au vin ce que les mots sont &agrave; la litt&eacute;rature. Dans le Domaine viticole de la Bastide de Marie, les vins blancs, rouges et le ros&eacute; sont &eacute;labor&eacute;s &agrave; partir de 11 c&eacute;pages.<\/p>",
+              "button_label": "Découvrez nos vins",
+              "frontpage_text_align": "center",
+              "anchor": "localisation"
+            }
+          }
+        },
+        "block_order": [
+          "1576076647567",
+          "1576076637816"
+        ],
+        "settings": {
+          "grid_layout": true,
+          "featured_links_per_row": "1"
+        }
+      },
+      "slideshow-hebergement": {
+        "type": "slideshow-hebergement",
+        "blocks": {
+          "1576077339130": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Untitled_design_12.jpg",
+              "title": "La Bastide de Marie",
+              "subtext": "",
+              "image_button_label": "",
+              "text_position": "center",
+              "text_align": "center",
+              "link": ""
+            }
+          }
+        },
+        "block_order": [
+          "1576077339130"
+        ],
+        "settings": {
+          "slideshow_stretch": true,
+          "slideshow_animation": "fade",
+          "slideshow_text_animation": "fadeInDown",
+          "slideshow_speed": 6
+        }
+      },
+      "image-text-hebergement": {
+        "type": "image-text-hebergement",
+        "blocks": {
+          "1580138449856": {
+            "type": "image",
+            "settings": {
+              "margin-top": 40,
+              "grid_text_position": "left",
+              "image": "shopify:\/\/shop_images\/salon_BM_-_MP_Morel_14.jpg",
+              "link": "",
+              "title": "UNE MAISON",
+              "title-size": 30,
+              "subtitle": "A l'esprit de famille",
+              "subtitle-size": 29,
+              "subtitle-color": "#80686f",
+              "text": "<p>Authentique mas provençal en pierre du XVIIIe siècle serti de cyprès, de lavande et d&rsquo;oliviers, La Bastide de Marie est un havre de paix intimiste aux allures d&rsquo;une demeure familiale. Si sa décoration élégante et chaleureuse mariant mobilier chiné et pièces baroques contribue à sa singularité, c&rsquo;est aussi son cadre unique qui enchante les hôtes de passage.&nbsp;<\/p>",
+              "button_label": "Découvrir la Bastide de Marie",
+              "frontpage_text_align": "center",
+              "anchor": "bastide"
+            }
+          }
+        },
+        "block_order": [
+          "1580138449856"
+        ],
+        "settings": {
+          "grid_layout": true,
+          "featured_links_per_row": "1"
+        }
+      },
+      "slideshow_evenements": {
+        "type": "slideshow_evenements",
+        "blocks": {
+          "1577716691877": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Copy_of_Copy_of_Untitled_Design_2.jpg",
+              "title": "Évènements",
+              "subtext": "",
+              "image_button_label": "",
+              "text_position": "center",
+              "text_align": "center",
+              "link": ""
+            }
+          }
+        },
+        "block_order": [
+          "1577716691877"
+        ],
+        "settings": {
+          "slideshow_stretch": true,
+          "slideshow_animation": "fade",
+          "slideshow_text_animation": "fadeInDown",
+          "slideshow_speed": 6
+        }
+      },
+      "image-text-evenements": {
+        "type": "image-text-evenements",
+        "blocks": {
+          "1577716870919": {
+            "type": "image",
+            "settings": {
+              "margin-top": 60,
+              "grid_text_position": "left",
+              "image": "shopify:\/\/shop_images\/Domaine-de-Marie-5798-HDR.jpg",
+              "link": "",
+              "title": "VOS EVENEMENTS",
+              "title-size": 30,
+              "subtitle": "Professionnels",
+              "subtitle-size": 29,
+              "subtitle-color": "#80686f",
+              "text": "<p>Vous souhaitez organiser un &eacute;v&eacute;nement professionnel au coeur de notre Domaine ? Qu'il s'agisse d'un s&eacute;minaire, d'une r&eacute;union informelle, la salle Vermentino et ses 100m&sup2; vous accueille<\/p>",
+              "button_label": "Demande d'information",
+              "frontpage_text_align": "center",
+              "anchor": "degustations"
+            }
+          },
+          "1577716789686": {
+            "type": "image",
+            "settings": {
+              "margin-top": 60,
+              "grid_text_position": "left",
+              "image": "shopify:\/\/shop_images\/2017-06-23_Sibuet_Menerbes_Photo-_DavidANDRE-DSC_3193.jpg",
+              "link": "",
+              "title": "VOS EVENEMENTS",
+              "title-size": 30,
+              "subtitle": "Familiaux",
+              "subtitle-size": 29,
+              "subtitle-color": "#80686f",
+              "text": "<p>Anniversaire, mariage, bapt&ecirc;me... le Domaine de Marie est le lieu id&eacute;al pour vos &eacute;v&egrave;nements de famille. Nos &eacute;quipes sont l&agrave; pour faire de ces moments des instants inoubliables.<\/p>",
+              "button_label": "DEMANDE D'INFORMATION",
+              "frontpage_text_align": "center",
+              "anchor": "activites"
+            }
+          }
+        },
+        "block_order": [
+          "1577716870919",
+          "1577716789686"
+        ],
+        "settings": {
+          "grid_layout": true,
+          "featured_links_per_row": "1"
+        }
+      },
+      "slideshow_gammes": {
+        "type": "slideshow_gammes",
+        "blocks": {
+          "1581499987200": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Copy_of_Copy_of_Untitled_Design_b253b449-c77f-4a40-9a7e-01f65741c175.jpg",
+              "title": "Nos gammes",
+              "subtext": "",
+              "image_button_label": "",
+              "text_position": "center",
+              "text_align": "center",
+              "link": ""
+            }
+          }
+        },
+        "block_order": [
+          "1581499987200"
+        ],
+        "settings": {
+          "slideshow_stretch": true,
+          "slideshow_animation": "fade",
+          "slideshow_text_animation": "fadeInDown",
+          "slideshow_speed": 6
+        }
+      },
+      "collection-list-gammes": {
+        "type": "collection-list-gammes",
+        "blocks": {
+          "1577718125217": {
+            "type": "collection",
+            "settings": {
+              "feature_collection": "marie",
+              "image": "shopify:\/\/shop_images\/2017-06-23_Sibuet_Menerbes_Photo-_DavidANDRE-DSC_2942.jpg"
+            }
+          },
+          "1577718090108": {
+            "type": "collection",
+            "settings": {
+              "feature_collection": "n-1",
+              "image": "shopify:\/\/shop_images\/Domaine_de_Marie_-_MP.jpg"
+            }
+          },
+          "1577718110897": {
+            "type": "collection",
+            "settings": {
+              "feature_collection": "le",
+              "image": "shopify:\/\/shop_images\/2017-06-23_Sibuet_Menerbes_Photo-_DavidANDRE-DSC_3089.jpg"
+            }
+          }
+        },
+        "block_order": [
+          "1577718125217",
+          "1577718090108",
+          "1577718110897"
+        ],
+        "settings": {
+          "title": "",
+          "frontpage_collections_per_row": 3,
+          "frontpage_collections_title": true,
+          "collection_count": false
+        }
+      },
+      "contact-template": {
+        "type": "contact-template",
+        "settings": {
+          "contact_image": "shopify:\/\/shop_images\/image.jpg",
+          "contact_text_position": "left",
+          "map_address": "400 chemin des peirelles 84560 menerbes",
+          "image": "",
+          "store_hours": true,
+          "title": "Nous trouver",
+          "address_and_hours": "<p>400 chemin des peirelles<br>84560 menerbes<\/p>",
+          "info_text_color": "#000000",
+          "info_color": "#ffffff",
+          "newsletter_richtext": "",
+          "wide_display": false,
+          "text_alignment": "left",
+          "map_position": "left",
+          "zoom_level": 12,
+          "api_key": "",
+          "show_pin": true,
+          "button_label": "Directions",
+          "map_style": "default"
+        }
+      },
+      "anchor-menu-lapropiete": {
+        "type": "anchor-menu-lapropiete",
+        "blocks": {
+          "1578582581753": {
+            "type": "anchor",
+            "settings": {
+              "title": "Les hommes",
+              "anchor": "#les-hommes",
+              "link": ""
+            }
+          },
+          "1578564768524": {
+            "type": "anchor",
+            "settings": {
+              "title": "Le vignoble",
+              "anchor": "#localisation",
+              "link": ""
+            }
+          },
+          "1578565032704": {
+            "type": "anchor",
+            "settings": {
+              "title": "Terroir",
+              "anchor": "#terroir",
+              "link": "#terroir"
+            }
+          },
+          "1578582528849": {
+            "type": "anchor",
+            "settings": {
+              "title": "Chai",
+              "anchor": "#chai",
+              "link": ""
+            }
+          }
+        },
+        "block_order": [
+          "1578582581753",
+          "1578564768524",
+          "1578565032704",
+          "1578582528849"
+        ],
+        "settings": {
+          "background-color": "#000000",
+          "color": "#ffffff",
+          "hover-background-color": "#ffffff",
+          "hover-color": "#000000"
+        }
+      },
+      "anchor-menu-nosvins": {
+        "type": "anchor-menu-nosvins",
+        "blocks": {
+          "1578585517542": {
+            "type": "anchor",
+            "settings": {
+              "title": "Les rouges",
+              "anchor": "#lesrouges",
+              "link": ""
+            }
+          },
+          "1578585538518": {
+            "type": "anchor",
+            "settings": {
+              "title": "Les blancs",
+              "anchor": "#lesblancs",
+              "link": ""
+            }
+          },
+          "1578585551368": {
+            "type": "anchor",
+            "settings": {
+              "title": "Les rosés",
+              "anchor": "#lesroses",
+              "link": ""
+            }
+          },
+          "1580977498614": {
+            "type": "anchor",
+            "settings": {
+              "title": "Les packs",
+              "anchor": "#lespacks",
+              "link": ""
+            }
+          },
+          "1582628247283": {
+            "type": "anchor",
+            "settings": {
+              "title": "Les cuvées",
+              "anchor": "#cuvees",
+              "link": ""
+            }
+          }
+        },
+        "block_order": [
+          "1582628247283",
+          "1578585517542",
+          "1578585538518",
+          "1578585551368",
+          "1580977498614"
+        ],
+        "settings": {
+          "background-color": "#000000",
+          "color": "#ffffff",
+          "hover-background-color": "#ffffff",
+          "hover-color": "#040707"
+        }
+      },
+      "anchor-menu-evenements": {
+        "type": "anchor-menu-evenements",
+        "settings": {
+          "background-color": "#80686f",
+          "color": "#ffffff",
+          "hover-background-color": "#ffffff",
+          "hover-color": "#040707"
+        }
+      },
+      "anchor-menu-hebergement": {
+        "type": "anchor-menu-hebergement",
+        "blocks": {
+          "1578587266103": {
+            "type": "anchor",
+            "settings": {
+              "title": "La Bastide de Marie",
+              "anchor": "#bastide",
+              "link": ""
+            }
+          },
+          "1578587291060": {
+            "type": "anchor",
+            "settings": {
+              "title": "Le Table de la Bastide",
+              "anchor": "#restaurant",
+              "link": ""
+            }
+          }
+        },
+        "block_order": [
+          "1578587266103",
+          "1578587291060"
+        ],
+        "settings": {
+          "background-color": "#040707",
+          "color": "#f9f7f0",
+          "hover-background-color": "#f9f7f0",
+          "hover-color": "#80686f"
+        }
+      },
+      "cart__main": {
+        "type": "cart__main",
+        "settings": {
+          "display_special_instructions": false
+        }
+      },
+      "text-propriete": {
+        "type": "text-propriete",
+        "settings": {
+          "anchor": "",
+          "image": "",
+          "title": "UNE PROPRIETE DE FAMILLE",
+          "title-size": 30,
+          "subtitle": "Où l'on préserve l'exception",
+          "subtitle-size": 28,
+          "subtitle-color": "#80686f",
+          "content": "<p>Lorsque la famille Sibuet fait l&rsquo;acquisition de ce précieux terroir il y a 19 ans, elle entend demeurer fidèle à ses valeurs, ses exigences de qualité, son respect pour la nature, guidée par son amour du vin. Le Domaine de Marie incarne cet attachement pour la terre et cette passion que cultivent les Sibuet. Jean-Louis Sibuet et son fils Nicolas ont ainsi travaillé à la restructuration du vignoble avec la volonté, dès le départ, de supprimer petit à petit les produits chimiques, de rééquilibrer les sols afin qu&rsquo;ils soient sains. &laquo; Une viticulture de bon sens qui s&rsquo;appuie sur la connaissance du terroir. Le Luberon est une des rares appellations à être dans un Parc naturel, il est alors encore plus évident pour nous d&rsquo;être dans une démarche environnementale &raquo;, ajoute Arnaud Bressy le Ma&icirc;tre de Chai.<\/p>",
+          "button_label": "",
+          "button_link": "",
+          "text_size": "regular_text",
+          "text_alignment": "center"
+        }
+      },
+      "gallery-hebergement": {
+        "type": "gallery-hebergement",
+        "blocks": {
+          "1580395571105": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Untitled_design_5_f1dc800f-b644-4a47-a723-a90d7a89059c.jpg"
+            }
+          },
+          "1580395621725": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/hebergement-piscine-domaine-viticole.jpg"
+            }
+          },
+          "1580395622823": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Untitled_design_4_1340b074-2241-4e28-9cd9-7b036fc41731.jpg"
+            }
+          },
+          "1580395624392": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Untitled_design_3.jpg"
+            }
+          }
+        },
+        "block_order": [
+          "1580395571105",
+          "1580395621725",
+          "1580395622823",
+          "1580395624392"
+        ],
+        "settings": {
+          "wide_display": false,
+          "wide_display_with_padding": true,
+          "title": "",
+          "grid-size": 4
+        }
+      },
+      "image-text-hebergement-2": {
+        "type": "image-text-hebergement-2",
+        "blocks": {
+          "1580395979271": {
+            "type": "image",
+            "settings": {
+              "margin-top": 50,
+              "grid_text_position": "right",
+              "image": "shopify:\/\/shop_images\/Untitled_design_6.jpg",
+              "link": "",
+              "title": "PROVENCE AUTHENTIQUE",
+              "title-size": 30,
+              "subtitle": "La vie du Domaine au fil des saisons",
+              "subtitle-size": 29,
+              "subtitle-color": "#80686f",
+              "text": "<p>A l&rsquo;automne, saison des vendanges, le vignoble s&rsquo;illumine de chatoyantes couleurs, la vie bat son plein au domaine. Aux beaux jours du printemps, la Bastide s&rsquo;éveille avec ses petits déjeuners pris à l&rsquo;ombre des tilleuls et une séance de yoga avec vue sur le Luberon ! À chaque saison, elle dévoile son charme singulier. Que l&rsquo;on s&rsquo;abandonne à la lecture près du feu de cheminée ou que l&rsquo;on s&rsquo;initie à l&rsquo;art de la vinification au détour d&rsquo;un chemin, La Bastide de Marie conjugue avec simplicité et raffinement l&rsquo;art de vivre sur tous les modes.<\/p>\n<p><\/p>",
+              "button_label": "",
+              "frontpage_text_align": "center",
+              "anchor": ""
+            }
+          }
+        },
+        "block_order": [
+          "1580395979271"
+        ],
+        "settings": {
+          "grid_layout": true,
+          "featured_links_per_row": "1"
+        }
+      },
+      "gallery-hebergement-2": {
+        "type": "gallery-hebergement-2",
+        "blocks": {
+          "1580395960563": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Untitled_design_7.jpg"
+            }
+          },
+          "1580395962596": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Untitled_design_8.jpg"
+            }
+          },
+          "1580395964591": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Untitled_design_9.jpg"
+            }
+          },
+          "1580395966569": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Untitled_design_10.jpg"
+            }
+          }
+        },
+        "block_order": [
+          "1580395960563",
+          "1580395962596",
+          "1580395964591",
+          "1580395966569"
+        ],
+        "settings": {
+          "wide_display": false,
+          "wide_display_with_padding": true,
+          "title": "",
+          "grid-size": 4
+        }
+      },
+      "text-hebergement": {
+        "type": "text-hebergement",
+        "settings": {
+          "anchor": "",
+          "image": "",
+          "title": "UNE BASTIDE",
+          "title-size": 30,
+          "subtitle": "Les pieds dans la vigne",
+          "subtitle-size": 29,
+          "subtitle-color": "#80686f",
+          "content": "<p>La Bastide de Marie fait partie de ces adresses que l&rsquo;on aimerait garder pour soi. Une très belle demeure qui conjugue avec simplicité et raffinement tous les charmes de la Provence. On voudrait d&rsquo;ailleurs que le temps s&rsquo;arrête pour savourer la douceur de vivre qui baigne les lieux. D&rsquo;autant qu&rsquo;ici, la nature est plus qu&rsquo;un simple décor, c&rsquo;est un art de vivre. Située dans l&rsquo;un des plus beaux villages de Provence, à Ménerbes, dans le Parc naturel régional du Luberon, La Bastide de Marie a pour écrin le Domaine de Marie, propriété viticole de 23 hectares.&nbsp;<\/p>",
+          "button_label": "",
+          "button_link": "",
+          "text_size": "regular_text",
+          "text_alignment": "center"
+        }
+      },
+      "text-hebergement-2": {
+        "type": "text-hebergement-2",
+        "settings": {
+          "anchor": "restaurant",
+          "image": "",
+          "title": "LA TABLE DE LA BASTIDE",
+          "title-size": 30,
+          "subtitle": "Goûter le terroir",
+          "subtitle-size": 29,
+          "subtitle-color": "#80686f",
+          "content": "<p>Et si la dégustation des vins du domaine, sous les conseils avisés du maître de chai, demeure incontournable, le plaisir des sens se prolonge également à la table reconnue du chef François Martin avec son menu du marché. Dans l&rsquo;assiette se reflètent la Provence et ses vignes, ses couleurs et ses parfums. &laquo; J&rsquo;utilise essentiellement des produits locaux ainsi que les vins du Domaine que l&rsquo;on retrouve notamment dans les sauces, les marinades, les granités &raquo;, précise le chef qui concocte à l&rsquo;automne le fameux colvert aux légumes- racines et aux figues pochées au vin rouge du Domaine.<\/p>",
+          "button_label": "Découvrir la table",
+          "button_link": "https:\/\/www.labastidedemarie.com\/fr\/gastronomie-et-vins",
+          "text_size": "regular_text",
+          "text_alignment": "center"
+        }
+      },
+      "image-text-contact": {
+        "type": "image-text-contact",
+        "blocks": {
+          "1580982115879": {
+            "type": "image",
+            "settings": {
+              "margin-top": 0,
+              "grid_text_position": "right",
+              "image": "shopify:\/\/shop_images\/Untitled_design_17.jpg",
+              "link": "",
+              "title": "Horaires d'ouverture",
+              "title-size": 40,
+              "subtitle": "",
+              "subtitle-size": 30,
+              "subtitle-color": "#000",
+              "text": "<p><\/p>\n<p><strong>Novembre &agrave; Mars&nbsp;:<\/strong><br>Lundi, Mardi, Jeudi et Vendredi : 9h-12h et 13h-17h<br><strong>Avril &agrave; Juin<\/strong>&nbsp;:<br>Du Lundi au Vendredi : 9h-12h et 13h-18h<br>Samedi : 10h-17h<br><strong>Juillet &agrave; Ao&ucirc;t<\/strong>&nbsp;:<br>Du Lundi au Vendredi : 9h-12h et 14h-19h<br>Samedi : 10h-12h et 14h-19h<br><strong>Septembre &agrave; Octobre :<\/strong><br>Du Lundi au Vendredi : 9h-12h et 13h-18h<br>Samedi : 10h-17h<br><strong>Ferm&eacute; les dimanches et jours feri&eacute;s<\/strong><\/p>",
+              "button_label": "",
+              "frontpage_text_align": "left",
+              "anchor": ""
+            }
+          },
+          "1582024211455": {
+            "type": "image",
+            "settings": {
+              "margin-top": 60,
+              "grid_text_position": "right",
+              "image": "",
+              "link": "",
+              "title": "Heading",
+              "title-size": 40,
+              "subtitle": "sous-titre",
+              "subtitle-size": 30,
+              "subtitle-color": "#000",
+              "text": "<p>Promotion description appears here.<\/p>",
+              "button_label": "View all",
+              "frontpage_text_align": "center",
+              "anchor": ""
+            }
+          },
+          "1582024213909": {
+            "type": "image",
+            "settings": {
+              "margin-top": 60,
+              "grid_text_position": "right",
+              "image": "",
+              "link": "",
+              "title": "Your headline",
+              "title-size": 40,
+              "subtitle": "sous-titre",
+              "subtitle-size": 30,
+              "subtitle-color": "#000",
+              "text": "<p>Promotion description appears here.<\/p>",
+              "button_label": "View all",
+              "frontpage_text_align": "center",
+              "anchor": ""
+            }
+          },
+          "1582024215457": {
+            "type": "image",
+            "settings": {
+              "margin-top": 60,
+              "grid_text_position": "right",
+              "image": "",
+              "link": "",
+              "title": "Your headline",
+              "title-size": 40,
+              "subtitle": "sous-titre",
+              "subtitle-size": 30,
+              "subtitle-color": "#000",
+              "text": "<p>Promotion description appears here.<\/p>",
+              "button_label": "View all",
+              "frontpage_text_align": "center",
+              "anchor": ""
+            }
+          }
+        },
+        "block_order": [
+          "1580982115879",
+          "1582024211455",
+          "1582024213909",
+          "1582024215457"
+        ],
+        "settings": {
+          "grid_layout": true,
+          "featured_links_per_row": "1"
+        }
+      },
+      "text-contact": {
+        "type": "text-contact",
+        "settings": {
+          "image": "",
+          "title": "Contact",
+          "title-size": 47,
+          "subtitle": "",
+          "subtitle-size": 30,
+          "content": "<p><\/p>\n<p><\/p>",
+          "button_label": "",
+          "button_link": "",
+          "text_size": "regular_text",
+          "text_alignment": "center"
+        }
+      },
+      "map": {
+        "type": "map",
+        "settings": {
+          "padding": 50,
+          "map_address": "400 chemin des peirelles",
+          "image": "",
+          "store_hours": true,
+          "title": "Nous trouver",
+          "address_and_hours": "<p><strong>Domaine de Marie<\/strong><br>400 chemin des peirelles<br>84560 menerbes<br>T&eacute;l : 04.90.72.54.23<\/p>",
+          "info_text_color": "#000000",
+          "info_color": "#ffffff",
+          "wide_display": false,
+          "text_alignment": "left",
+          "map_position": "left",
+          "zoom_level": 10,
+          "api_key": "",
+          "show_pin": true,
+          "button_label": "",
+          "map_style": "default"
+        }
+      },
+      "text-propriete-2": {
+        "type": "text-propriete-2",
+        "settings": {
+          "anchor": "terroir",
+          "image": "",
+          "title": "LE TERROIR",
+          "title-size": 31,
+          "subtitle": "Une culture raisonnée",
+          "subtitle-size": 28,
+          "subtitle-color": "#80686f",
+          "content": "<p>Chaque terroir poss&egrave;de son propre microclimat ainsi qu'une structure de sol et une exposition diff&eacute;rentes.<br>Depuis la cr&eacute;ation du Domaine, la philosophie reste inchang&eacute;e. Aid&eacute;e par le microclimat et le Mistral, la vigne ne reste jamais humide. C'est donc logiquement que la nature guide depuis toujours les d&eacute;marches viticoles vers une culture raisonn&eacute;e et de plus en plus vers une approche biologique. Ici la nature est respectée ; le microclimat, le mistral, le soleil et la structure du sol font leur &oelig;uvre, donnant naissance à des vins blancs, rouges et rosés élaborés à partir de onze variétés de vignes.&nbsp;<\/p>",
+          "button_label": "",
+          "button_link": "",
+          "text_size": "regular_text",
+          "text_alignment": "center"
+        }
+      },
+      "gallery-propriete": {
+        "type": "gallery-propriete",
+        "blocks": {
+          "1581086253299": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/terroir-domaine-demarie-vins-provence-900.jpg"
+            }
+          },
+          "1581086290772": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Exterieurs_DM_DR_28.jpg"
+            }
+          },
+          "1581086379709": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Exterieurs_DM_DR_24.jpg"
+            }
+          }
+        },
+        "block_order": [
+          "1581086253299",
+          "1581086290772",
+          "1581086379709"
+        ],
+        "settings": {
+          "wide_display": false,
+          "wide_display_with_padding": false,
+          "title": "",
+          "grid-size": 3
+        }
+      },
+      "text-propriete-3": {
+        "type": "text-propriete-3",
+        "settings": {
+          "anchor": "chai",
+          "image": "",
+          "title": "LE CHAI",
+          "title-size": 30,
+          "subtitle": "Technologies et techniques anciennes",
+          "subtitle-size": 28,
+          "subtitle-color": "#80686f",
+          "content": "<p>Le chai du Domaine de Marie utilise les derni&egrave;res innovations technologiques :<br>La r&eacute;ception de vendanges effectu&eacute;e par gravit&eacute;. Elle permet une arriv&eacute;e en douceur du raisin pour en pr&eacute;server la qualit&eacute;. Celui-ci est ensuite &eacute;rafl&eacute; et foul&eacute;.<br>La cave de vinification. Elle est dot&eacute;e de cuves en inox et en bois, toutes thermor&eacute;gul&eacute;es, pour une parfaite ma&icirc;trise des temp&eacute;ratures de fermentation ainsi qu&rsquo;un nouveau chai avec des cuves ovo&iuml;des en b&eacute;ton pour la vinification des blancs, elles aussi sous contr&ocirc;le des temp&eacute;ratures.<br>Le chai d'&eacute;levage. Id&eacute;alement situ&eacute; en sous-sol, contre la roche naturelle, il permet d'obtenir une temp&eacute;rature et une hygrom&eacute;trie optimale. Les rouges de garde pourront alors s'affiner dans les meilleures conditions en f&ucirc;t de ch&ecirc;ne.<\/p>",
+          "button_label": "",
+          "button_link": "",
+          "text_size": "regular_text",
+          "text_alignment": "center"
+        }
+      },
+      "gallery-propriete-2": {
+        "type": "gallery-propriete-2",
+        "blocks": {
+          "1581086721152": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Interieurs_DM_DR_8_7f67eda8-ae66-4e6c-a62e-0af0d4917c01.jpg"
+            }
+          },
+          "1581086533191": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Interieurs_DM_DR_3.jpg"
+            }
+          },
+          "1581086582887": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Interieurs_DM_DR_30_09a39d05-a568-4fca-ba2a-942aa3a04d46.jpg"
+            }
+          }
+        },
+        "block_order": [
+          "1581086721152",
+          "1581086533191",
+          "1581086582887"
+        ],
+        "settings": {
+          "wide_display": false,
+          "wide_display_with_padding": false,
+          "title": "",
+          "grid-size": 3
+        }
+      },
+      "text-gammes": {
+        "type": "text-gammes",
+        "settings": {
+          "image": "",
+          "title": "Les cuvées du Domaine",
+          "title-size": 30,
+          "subtitle": "",
+          "subtitle-size": 30,
+          "subtitle-color": "#80686f",
+          "content": "<p><\/p>\n<p>Grenache, syrah, roussanne, vermentino, cinsault et mourvèdre : autant de cépages travaillés avec passion dans un souci d&rsquo;excellence. &laquo; Le Domaine de Marie a la singularité d&rsquo;être constitué de trois grands terroirs dont les expositions et les sols diffèrent. Cela nous permet d&rsquo;avoir une diversité de vins, de créer plusieurs gammes qui ont chacune leurs spécificités : la cuvée Marie déclinée dans les trois couleurs, dont les vins légers sont appréciés pour leur fraîcheur, la gamme Numéro 1, cuvée phare du domaine avec des vins plus structurés, fins et élégants présentant une belle aptitude au vieillissement. Et enfin la cuvée &ldquo;Le&rdquo;, élaborée uniquement lors des millésimes exceptionnels dont les vins sont rares et d&rsquo;une grande personnalité &raquo;, précise Arnaud Bressy.<\/p>",
+          "button_label": "",
+          "button_link": "",
+          "text_size": "featured_text",
+          "text_alignment": "center"
+        }
+      },
+      "text-hebergement-3": {
+        "type": "text-hebergement-3",
+        "settings": {
+          "anchor": "",
+          "image": "",
+          "title": "LA TABLE",
+          "title-size": 30,
+          "subtitle": "Une cuisine à l'écoute de la nature",
+          "subtitle-size": 29,
+          "subtitle-color": "#80686f",
+          "content": "<p>Une exquise immersion dans le terroir mais aussi dans un univers viticole écologique et responsable. &laquo; Notre ambition est d&rsquo;avoir une véritable démarche d&rsquo;agritourisme, peu développé en France mais bien présent en Italie. Cette d&eacute;marche reflète parfaitement nos valeurs : l&rsquo;amour du terroir, la simplicité, le bien-manger, mais aussi l&rsquo;élégance et le raffinement &raquo;, explique Nicolas Sibuet.<\/p>",
+          "button_label": "Réserver en ligne",
+          "button_link": "https:\/\/ib.guestonline.fr\/instabook\/bookings\/DHzs6Cr?locale=fr",
+          "text_size": "featured_text",
+          "text_alignment": "center"
+        }
+      },
+      "1581361949249": {
+        "type": "video",
+        "settings": {
+          "wide_display": true,
+          "aspect_ratio": "4:3",
+          "autoplay": true,
+          "autoloop": true,
+          "video_dark_overlay": false,
+          "video": "",
+          "mp4": "https:\/\/cdn.shopify.com\/s\/files\/1\/0282\/7970\/1588\/files\/DOMAINE_DE_MARIE_1_1.mp4?1360",
+          "ogv": "",
+          "image": "shopify:\/\/shop_images\/Exterieurs_DM_DR_30.jpg",
+          "display_text_over_video": false,
+          "title": "",
+          "subtext": "",
+          "button_label": "Play video",
+          "link": "",
+          "text_position": "center",
+          "text_align": "center"
+        }
+      },
+      "1581495079155": {
+        "type": "featured-blog",
+        "settings": {
+          "title": "La vie du Domaine",
+          "blog_widget_select": "news",
+          "home_page_articles": 3,
+          "blog_tags": false,
+          "blog_author": false,
+          "blog_date": false,
+          "blog_comment_count": false,
+          "read_more_link": true
+        }
+      },
+      "1581496936678": {
+        "type": "slideshow-hebergement",
+        "blocks": {
+          "1581496936678-1": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Untitled_design_13.jpg",
+              "title": "Propriété viticole au coeur du Lubéron",
+              "subtext": "",
+              "image_button_label": "Acheter nos vins",
+              "text_position": "center",
+              "text_align": "center",
+              "link": "shopify:\/\/pages\/nos-vins"
+            }
+          },
+          "1581496936678-0": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Untitled_design_1_3eba64e3-e4e6-4901-bbbc-7ad2e934a6ce.jpg",
+              "title": "Propriété viticole au coeur du Lubéron",
+              "subtext": "",
+              "image_button_label": "Acheter nos vins",
+              "text_position": "center",
+              "text_align": "center",
+              "link": "shopify:\/\/pages\/nos-vins"
+            }
+          },
+          "1581497030586": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Untitled_design_14_3f7ed2a9-f1f4-4db5-b7aa-ffc2bd0c58da.jpg",
+              "title": "Propriété viticole au coeur du Lubéron",
+              "subtext": "",
+              "image_button_label": "Acheter nos vins",
+              "text_position": "center",
+              "text_align": "center",
+              "link": "shopify:\/\/pages\/nos-vins"
+            }
+          }
+        },
+        "block_order": [
+          "1581496936678-1",
+          "1581496936678-0",
+          "1581497030586"
+        ],
+        "settings": {
+          "slideshow_stretch": true,
+          "slideshow_animation": "fade",
+          "slideshow_text_animation": "fadeInDown",
+          "slideshow_speed": 6
+        }
+      },
+      "gallery-hebergement-3": {
+        "type": "gallery-hebergement-3",
+        "blocks": {
+          "1582024151779": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Untitled_design_3_98b3c06a-5e56-421b-ae91-80426aed2dff.jpg"
+            }
+          },
+          "1582024153734": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Restaurants_BM_-_DR.JPG"
+            }
+          },
+          "1582024154877": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Restaurants_-_MP._Morel_13.jpg"
+            }
+          }
+        },
+        "block_order": [
+          "1582024151779",
+          "1582024153734",
+          "1582024154877"
+        ],
+        "settings": {
+          "wide_display": false,
+          "wide_display_with_padding": true,
+          "title": "",
+          "grid-size": 3
+        }
+      },
+      "featured-collection_nospacks": {
+        "type": "featured-collection_nospacks",
+        "settings": {
+          "title": "Les packs",
+          "frontpage_collection": "les-packs",
+          "frontpage_products_per_row": 3,
+          "frontpage_products_limit": 12,
+          "anchor": "lespacks"
+        }
+      },
+      "gallery-contact": {
+        "type": "gallery-contact",
+        "blocks": {
+          "1582557505176": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Untitled_design_eec5a3f0-bf94-4a08-b140-4dd07ab17b7e.jpg"
+            }
+          },
+          "1582557506895": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Untitled_design_2_96799bdb-c69b-44b7-8916-dd28c5a262d7.jpg"
+            }
+          },
+          "1582557507998": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Untitled_design_1_2a9048d0-56dd-4e7a-ab86-8591ae8e76f5.jpg"
+            }
+          }
+        },
+        "block_order": [
+          "1582557505176",
+          "1582557506895",
+          "1582557507998"
+        ],
+        "settings": {
+          "wide_display": true,
+          "wide_display_with_padding": true,
+          "title": "",
+          "grid-size": 3
+        }
+      },
+      "text-contact-2": {
+        "type": "text-contact-2",
+        "settings": {
+          "image": "",
+          "title": "Le Domaine de Marie",
+          "title-size": 30,
+          "subtitle": "",
+          "subtitle-size": 30,
+          "content": "<p><\/p>\n<p>400 chemin des Peirelles<br>84560 M&eacute;nerbes - FRANCE<\/p>\n<p>T&eacute;l :&nbsp;<a href=\"tel:+330490725423\">+33 4 90 72 54 23<\/a><br>Fax :&nbsp;<a href=\"tel:+330490725424\">+33 4 90 72 54 24<\/a><br><a href=\"mailto:contact@domainedemarie.com\">contact@domainedemarie.com<\/a><\/p>\n<p><\/p>\n<p><strong>Horaires :&nbsp;<\/strong><\/p>\n<p><em>Novembre &agrave; Mars&nbsp;<\/em><strong><em>:<\/em>&nbsp;<\/strong>Lundi, Mardi, Jeudi et Vendredi : 9h-12h et 13h-17h<br><em>Avril &agrave; Juin&nbsp;:&nbsp;<\/em>Du Lundi au Vendredi : 9h-12h et 13h-18h<br>Samedi : 10h-17h<br><em>Juillet &agrave; Ao&ucirc;t&nbsp;:&nbsp;<\/em>Du Lundi au Vendredi : 9h-12h et 14h-19h<br>Samedi : 10h-12h et 14h-19h<br><em>Septembre &agrave; Octobre :&nbsp;<\/em>Du Lundi au Vendredi : 9h-12h et 13h-18h<br>Samedi : 10h-17h<br><em>Ferm&eacute; les dimanches et jours feri&eacute;s<\/em><\/p>",
+          "button_label": "",
+          "button_link": "",
+          "text_size": "regular_text",
+          "text_alignment": "center"
+        }
+      },
+      "slideshow-contact": {
+        "type": "slideshow-contact",
+        "blocks": {
+          "1582557497106": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Untitled_design_3_116915eb-6495-477c-9ba6-605871ec2561.jpg",
+              "title": "",
+              "subtext": "",
+              "image_button_label": "",
+              "text_position": "center",
+              "text_align": "left",
+              "link": ""
+            }
+          }
+        },
+        "block_order": [
+          "1582557497106"
+        ],
+        "settings": {
+          "slideshow_stretch": true,
+          "slideshow_animation": "fade",
+          "slideshow_text_animation": "fadeInDown",
+          "slideshow_speed": 6
+        }
+      },
+      "slideshow-oenotourisme": {
+        "type": "slideshow-oenotourisme",
+        "blocks": {
+          "1582557534165": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Copy_of_Untitled.jpg",
+              "title": "Vos activités oenotouristiques",
+              "subtext": "",
+              "image_button_label": "",
+              "text_position": "center",
+              "text_align": "center",
+              "link": ""
+            }
+          }
+        },
+        "block_order": [
+          "1582557534165"
+        ],
+        "settings": {
+          "slideshow_stretch": true,
+          "slideshow_animation": "fade",
+          "slideshow_text_animation": "fadeInDown",
+          "slideshow_speed": 6
+        }
+      },
+      "text-oenotourisme": {
+        "type": "text-oenotourisme",
+        "settings": {
+          "anchor": "",
+          "image": "",
+          "title": "IMMERSION",
+          "title-size": 30,
+          "subtitle": "Dans l'univers du vin",
+          "subtitle-size": 29,
+          "subtitle-color": "#80686f",
+          "content": "<p>Arnaud Bressy et son &eacute;quipe vous proposent de partager leur passion pour la vigne et le vin. Situ&eacute;s au c&oelig;ur du vignoble, vous pourrez organiser sur place une multitude d&rsquo;activit&eacute;s autour du vin dans le chai, le caveau ou dans notre salle de d&eacute;gustation : visite du caveau, d&eacute;gustation &oelig;nologique et wine tour.<\/p>",
+          "button_label": "",
+          "button_link": "",
+          "text_size": "regular_text",
+          "text_alignment": "center"
+        }
+      },
+      "gallery-custom-oenotourisme": {
+        "type": "gallery-custom-oenotourisme",
+        "blocks": {
+          "1582557544906": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Untitled_design_6b3612d0-df78-4915-b6a3-9103605fad73.jpg",
+              "title": "Visite fraîcheur - 8€",
+              "content": "<p>Visite guid&eacute;e et d&eacute;gustation des vins de la cuv&eacute;e Marie :&nbsp; Blanc, Ros&eacute; et Rouge&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<\/p>\n<p><\/p>\n<p><\/p>",
+              "cta": "Demande d'information",
+              "url": ""
+            }
+          },
+          "1582557546613": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Untitled_design_2_7a78e3ad-360f-4388-a3f9-aa5b654ea66e.jpg",
+              "title": "Visite découverte - 11€",
+              "content": "<p>Visite guid&eacute;e et d&eacute;gustation des vins de la cuv&eacute;e Marie : Blanc, Ros&eacute;, Rouge et&nbsp;cuv&eacute;e N&deg;1 Rouge et Blanc <\/p>",
+              "cta": "Demande d'information",
+              "url": ""
+            }
+          },
+          "1582557547796": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Untitled_design_1_e7a1c2df-84a0-4b07-ae97-7118f550444c.jpg",
+              "title": "Visite millésime - 13€",
+              "content": "<p>Visite guid&eacute;e et d&eacute;gustation des vins de la cuv&eacute;e Marie :&nbsp; Blanc, Ros&eacute;, Rouge,&nbsp;cuv&eacute;e N&deg;1 Rouge et Blanc, cuv&eacute;e Le&nbsp;<\/p>",
+              "cta": "Demande d'information",
+              "url": ""
+            }
+          }
+        },
+        "block_order": [
+          "1582557544906",
+          "1582557546613",
+          "1582557547796"
+        ],
+        "settings": {
+          "container": "full",
+          "wide_display": false,
+          "title": "Nos dégustations",
+          "grid-size": 3,
+          "title-color": "#80686f"
+        }
+      },
+      "text-oenotourisme-2": {
+        "type": "text-oenotourisme-2",
+        "settings": {
+          "anchor": "",
+          "image": "",
+          "title": "INSTANTS OENOLOGIQUES",
+          "title-size": 30,
+          "subtitle": "Sur-mesure",
+          "subtitle-size": 29,
+          "subtitle-color": "#80686f",
+          "content": "<p>Use this text to share information about your brand with your customers. Describe a product, share announcements, or welcome customers to your store.<\/p>",
+          "button_label": "",
+          "button_link": "",
+          "text_size": "regular_text",
+          "text_alignment": "center"
+        }
+      },
+      "gallery-oenotourisme": {
+        "type": "gallery-oenotourisme",
+        "blocks": {
+          "1582557563300": {
+            "type": "image",
+            "settings": {
+              "image": ""
+            }
+          },
+          "1582557564909": {
+            "type": "image",
+            "settings": {
+              "image": ""
+            }
+          },
+          "1582557565896": {
+            "type": "image",
+            "settings": {
+              "image": ""
+            }
+          },
+          "1582557566904": {
+            "type": "image",
+            "settings": {
+              "image": ""
+            }
+          }
+        },
+        "block_order": [
+          "1582557563300",
+          "1582557564909",
+          "1582557565896",
+          "1582557566904"
+        ],
+        "settings": {
+          "wide_display": true,
+          "wide_display_with_padding": true,
+          "title": "Gallery",
+          "grid-size": 4
+        }
+      },
+      "text-evenements": {
+        "type": "text-evenements",
+        "settings": {
+          "image": "",
+          "title": "VOS ACTIVITES",
+          "title-size": 30,
+          "subtitle": "Autour du vin",
+          "subtitle-size": 29,
+          "content": "<p>Situ&eacute;s au c&oelig;ur du vignoble, vous pourrez organiser sur place une multitude d&rsquo;activit&eacute;s autour du vin dans le chai, le caveau ou dans notre salle de d&eacute;gustation : visite du caveau, d&eacute;gustation &oelig;nologique et wine tour.<\/p>",
+          "button_label": "",
+          "button_link": "",
+          "text_size": "featured_text",
+          "text_alignment": "center"
+        }
+      },
+      "gallery-evenements": {
+        "type": "gallery-evenements",
+        "blocks": {
+          "1582557763353": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Untitled_design_3_98b3c06a-5e56-421b-ae91-80426aed2dff.jpg"
+            }
+          },
+          "1582557767062": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Untitled_design_4_373b85cf-ba67-4549-8f07-f08d975d355c.jpg"
+            }
+          },
+          "1582557765515": {
+            "type": "image",
+            "settings": {
+              "image": "shopify:\/\/shop_images\/Untitled_design_5_21bd7543-0121-426e-8467-165415587bd4.jpg"
+            }
+          },
+          "1582625283595": {
+            "type": "image",
+            "settings": {
+              "image": ""
+            }
+          }
+        },
+        "block_order": [
+          "1582557763353",
+          "1582557767062",
+          "1582557765515",
+          "1582625283595"
+        ],
+        "settings": {
+          "wide_display": true,
+          "wide_display_with_padding": true,
+          "title": "",
+          "grid-size": 3
+        }
+      }
+    },
+    "content_for_index": [
+      "1581496936678",
+      "1481508718225",
+      "1481508727922",
+      "1481509059475",
+      "1581361949249",
+      "1481509538374",
+      "1581495079155"
+    ]
+  }
+}

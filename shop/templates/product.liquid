@@ -1,0 +1,32 @@
+{% comment %}
+  The contents of the product.liquid template can be found in /sections/product-template.liquid
+{% endcomment %}
+
+<div class="container main content main-wrapper">
+
+  {% include 'product-structured-data' %}
+
+  <div class="breadcrumb breadcrumb__wrapper sixteen columns">
+    <a href="{{ shop.url }}" title="{{ shop.name | escape }}"><span>{{ 'general.breadcrumbs.home' | t }}</span></a>
+    <span class="icon-caret-right"></span>
+      {% if collection %}
+        <a href="{{ collection.url }}" title="{{ collection.title | escape }}">
+        <span>{{ collection.title }}</span></a>
+      {% else %}
+        <a href="/collections/all" title="{{ collections.all.title }}">{{ collections.all.title }}</a>
+      {% endif %}
+    <span class="icon-caret-right"></span>
+    {{ product.title }}
+  </div>
+
+{% section 'product__sidebar' %}
+
+  <div class="sixteen column alpha omega " data-initial-width="sixteen" data-sidebar-width="twelve">
+  {% section 'product-template' %}
+
+  <div class="sixteen columns" data-initial-width="sixteen" data-sidebar-width="twelve offset-by-four">
+    {% section 'product-recommendations' %}
+  </div>
+  </div>
+
+</div>
