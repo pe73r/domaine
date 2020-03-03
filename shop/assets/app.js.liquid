@@ -273,7 +273,7 @@ var homepageVideo = {
         var autoloop = 'loop="loop"';
       }
 
-      var html = '<video autoplay="true" '+autoloop+' id="video"><source src="'+videoDetails.videoMP4+'" type="video/mp4"><source src="'+videoDetails.videoOGV+'" type="video/ogg" ></video>';
+      var html = '<video autoplay muted id="video"><source src="'+videoDetails.videoMP4+'" type="video/mp4"><source src="'+videoDetails.videoOGV+'" type="video/ogg" ></video>';
     }
     return html;
   },

@@ -59,9 +59,15 @@
         {{each( index, rate ) rates}}
         <li>${rate.name}
         {% endraw %}
-        {{ 'cart.shipping_calculator.at' | t }}
         {% raw %}
-         {{html Shopify.Cart.ShippingCalculator.formatRate(rate.price)}}</li>
+         {{if rate.price == 0 }}
+         
+         {{else}}
+         {% endraw %}
+           {{ 'cart.shipping_calculator.at' | t }}
+         {% raw %}
+           {{html Shopify.Cart.ShippingCalculator.formatRate(rate.price)}}</li>
+         {{/if}}
         {{/each}}
       </ul>
       {% endraw %}
